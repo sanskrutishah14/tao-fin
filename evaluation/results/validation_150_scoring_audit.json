@@ -1,0 +1,26 @@
+{
+  "label": "Read-only scoring audit of validation_150_baseline.json. Not a replacement score and not an estimate of overall financial accuracy.",
+  "source_results": "evaluation/results/validation_150_baseline.json",
+  "source_questions": "evaluation/validation_150_questions.json",
+  "official_score": {
+    "correct": 117,
+    "total": 150,
+    "accuracy": 0.78,
+    "rule": "Stored answer_correct from evaluation/scoring.py. A leading minus is not part of the selected number. Abstention is not correct."
+  },
+  "signed_number_diagnostic": {
+    "correct": 125,
+    "total": 150,
+    "rule": "Same comparison, unit conversion, and tolerances as evaluation/scoring.py, except a minus sign immediately before the number selected by that scorer is kept. A minus elsewhere in a calculation formula is not applied. Abstention remains not correct. Recomputed from the saved predicted_answer and gold fields. Exactly eight saved items change, all from incorrect to correct.",
+    "ids": ["dev-114", "dev-116", "dev-117", "dev-118", "dev-129", "dev-130", "dev-131", "dev-133"]
+  },
+  "classification": {
+    "officially_correct": 117,
+    "signed_match_officially_incorrect": 8,
+    "genuinely_incorrect_numeric_answer": ["dev-146"],
+    "appropriate_abstentions": ["dev-135", "dev-136", "dev-137", "dev-138", "dev-139", "dev-140", "dev-141", "dev-142", "dev-001", "dev-012", "dev-015"],
+    "uncertain_conflict_abstentions": ["dev-035", "dev-080"],
+    "inappropriate_abstentions": ["dev-025", "dev-028", "dev-031", "dev-034", "dev-143", "dev-144", "dev-145", "dev-147", "dev-148", "dev-149", "dev-150"]
+  },
+  "note": "Appropriate abstentions are not added to the official numerator. The signed diagnostic is not the stored score."
+}

@@ -1,0 +1,100 @@
+{
+  "label": "50-question independent evaluation. Separate from the 8-question smoke test and the 12-question validation set. Not an estimate of overall financial accuracy.",
+  "expected_total": 5,
+  "items": [
+    {
+      "id": "ind-01",
+      "question": "What was Microsoft's sales and marketing expense for fiscal year 2026, in USD millions?",
+      "category": "lookup",
+      "ticker": "MSFT",
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Sales and marketing for fiscal year 2026 was 26,710 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.5,
+      "working_set_mb": null
+    },
+    {
+      "id": "ind-02",
+      "question": "What was Apple's basic earnings per share for fiscal year 2025?",
+      "category": "lookup",
+      "ticker": "AAPL",
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Insufficient evidence.",
+      "abstained": true,
+      "answer_correct": false,
+      "verifier_confidence": 0.0,
+      "latency_seconds": 0.47,
+      "working_set_mb": null
+    },
+    {
+      "id": "ind-03",
+      "question": "What was Microsoft's net margin for fiscal year 2026?",
+      "category": "ratio",
+      "ticker": "MSFT",
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Net margin for fiscal year 2026 was 40.31%. It was calculated as 133,749 divided by 331,839, multiplied by 100.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.01,
+      "working_set_mb": null
+    },
+    {
+      "id": "ind-04",
+      "question": "What was the growth rate in TROW's net revenues from fiscal year 2024 to fiscal year 2025, in percent?",
+      "category": "growth",
+      "ticker": "TROW",
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "The growth rate in Net revenues from fiscal year 2024 to fiscal year 2025 was 3.12%. It was calculated as (7,315 - 7,094) / 7,094, multiplied by 100.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.38,
+      "working_set_mb": null
+    },
+    {
+      "id": "ind-05",
+      "question": "As of September 27, 2025, what was the total of Apple's cash, cash equivalents, and marketable securities, in USD billions?",
+      "category": "narrative",
+      "ticker": "AAPL",
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Insufficient evidence.",
+      "abstained": true,
+      "answer_correct": false,
+      "verifier_confidence": 0.0,
+      "latency_seconds": 0.4,
+      "working_set_mb": null
+    }
+  ],
+  "status": "complete",
+  "correct": 3,
+  "total": 5,
+  "accuracy": 0.6,
+  "abstained": 2,
+  "resources": [
+    {
+      "stage": "start",
+      "working_set_mb": null
+    },
+    {
+      "stage": "index",
+      "working_set_mb": null
+    }
+  ],
+  "latency_distribution": {
+    "count": 5,
+    "min_seconds": 0.01,
+    "median_seconds": 0.4,
+    "p90_seconds": 0.5,
+    "max_seconds": 0.5,
+    "mean_seconds": 0.35
+  },
+  "note": "Five-question pilot. Not the 50-question baseline."
+}

@@ -1,0 +1,160 @@
+{
+  "label": "Eight-question pilot of the 150-question development set. Not an estimate of overall financial accuracy.",
+  "expected_total": 8,
+  "items": [
+    {
+      "id": "dev-001",
+      "question": "What was Apple's accounts receivable net for fiscal year 2025, in USD millions?",
+      "category": "lookup",
+      "ticker": "AAPL",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Insufficient evidence.",
+      "abstained": true,
+      "answer_correct": false,
+      "verifier_confidence": 0.0,
+      "latency_seconds": 0.29,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-002",
+      "question": "What was Microsoft's accounts payable for fiscal year 2024, in USD millions?",
+      "category": "lookup",
+      "ticker": "MSFT",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accounts payable for fiscal year 2024 was 3,545 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.23,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-003",
+      "question": "What was TROW's accounts payable and accrued for fiscal year 2025, in USD millions?",
+      "category": "lookup",
+      "ticker": "TROW",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accounts payable and accrued expenses for fiscal year 2025 was 352.7 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.23,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-004",
+      "question": "What was Apple's accrued distribution and marketing for fiscal year 2025, in USD millions?",
+      "category": "lookup",
+      "ticker": "AAPL",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accrued distribution and marketing for fiscal year 2025 was 8,919 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.23,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-005",
+      "question": "What was Microsoft's accounts receivable for fiscal year 2026, in USD millions?",
+      "category": "lookup",
+      "ticker": "MSFT",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accounts receivable for fiscal year 2026 was 12,737 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.22,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-006",
+      "question": "What was TROW's accounts receivable for fiscal year 2025, in USD millions?",
+      "category": "lookup",
+      "ticker": "TROW",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accounts receivable for fiscal year 2025 was 113.3 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.24,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-007",
+      "question": "What was Apple's accrued liabilities and other reserves for fiscal year 2025, in USD millions?",
+      "category": "lookup",
+      "ticker": "AAPL",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accrued liabilities and other reserves for fiscal year 2025 was 6,154 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.23,
+      "working_set_mb": null
+    },
+    {
+      "id": "dev-008",
+      "question": "What was Microsoft's accruals reserves and other for fiscal year 2026, in USD millions?",
+      "category": "lookup",
+      "ticker": "MSFT",
+      "expected_answer": null,
+      "availability": "available",
+      "ran": true,
+      "predicted_answer": "Accruals, reserves, and other expenses for fiscal year 2026 was 5,509 million.",
+      "abstained": false,
+      "answer_correct": true,
+      "verifier_confidence": 1.0,
+      "latency_seconds": 0.25,
+      "working_set_mb": null
+    }
+  ],
+  "status": "complete",
+  "correct": 7,
+  "total": 8,
+  "accuracy": 0.875,
+  "abstained": 1,
+  "resources": [
+    {
+      "stage": "start",
+      "working_set_mb": null
+    },
+    {
+      "stage": "index",
+      "working_set_mb": null
+    }
+  ],
+  "latency_distribution": {
+    "count": 8,
+    "min_seconds": 0.22,
+    "median_seconds": 0.23,
+    "p90_seconds": 0.25,
+    "max_seconds": 0.29,
+    "mean_seconds": 0.24
+  },
+  "categories": {
+    "lookup": {
+      "ran": 8,
+      "correct": 7,
+      "incorrect": 1,
+      "abstained": 1
+    }
+  },
+  "appropriate_abstentions": 0,
+  "note": "Eight-question pilot of the 150-question development set. Not the full baseline.",
+  "questions_sha256": "d0a219229ff3044690a21358af398915196ededd63e59d181fc601793dfcb76e"
+}

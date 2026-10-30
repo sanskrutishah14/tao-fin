@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TAO-Fin</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --panel: #1a222c;
+      --line: #2a3644;
+      --text: #e8eef4;
+      --muted: #93a1b1;
+      --accent: #6ee7b7;
+      --warn: #fbbf24;
+      --bad: #f87171;
+      --good: #34d399;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 28px 20px 64px;
+    }
+    h1 { margin: 0 0 6px; font-size: 1.6rem; }
+    .sub { color: var(--muted); margin-bottom: 20px; }
+    form { display: flex; gap: 10px; margin-bottom: 20px; }
+    input[type="text"] {
+      flex: 1;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--text);
+      font-size: 1rem;
+    }
+    button {
+      padding: 12px 18px;
+      border: 0;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #062016;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button:disabled { opacity: 0.55; cursor: wait; }
+    .grid { display: grid; gap: 14px; }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 16px;
+    }
+    .card h2 {
+      margin: 0 0 10px;
+      font-size: 0.92rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .answer { font-size: 1.1rem; line-height: 1.5; white-space: pre-wrap; }
+    .stats { display: flex; flex-wrap: wrap; gap: 8px; }
+    .pill {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .ok { color: var(--good); border-color: #14532d; }
+    .fail { color: var(--bad); border-color: #7f1d1d; }
+    .evidence {
+      border-top: 1px solid var(--line);
+      padding-top: 10px;
+      margin-top: 10px;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+    .err { color: var(--bad); }
+    .empty { color: var(--muted); }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>TAO-Fin</h1>
+    <p class="sub">Verifier-guided financial QA. Live path uses SEC filings plus a Finnhub/yfinance snapshot.</p>
+    <form id="ask">
+      <input id="question" type="text" autocomplete="off"
+        placeholder="What is AAPL's current share price?" />
+      <button type="submit" id="go">Analyze</button>
+    </form>
+    <div class="grid" style="margin-bottom: 16px;">
+      <section class="card" id="smoke-card">
+        <h2>8-question local smoke test</h2>
+        <div id="smoke-body" class="empty">Loading smoke-test status…</div>
+      </section>
+      <section class="card" id="validation-card">
+        <h2>Validation baseline</h2>
+        <div id="validation-body" class="empty">Loading validation status…</div>
+      </section>
+    </div>
+    <div id="status" class="empty">Ask a question that names a US ticker.</div>
+    <div id="out" class="grid" hidden></div>
+  </main>
+  <script>
+    const form = document.getElementById("ask");
+    const input = document.getElementById("question");
+    const go = document.getElementById("go");
+    const status = document.getElementById("status");
+    const out = document.getElementById("out");
+
+    const checkClass = (ok) => ok ? "pill ok" : "pill fail";
+
+    function render(data) {
+      const tao = data.tao || {};
+      const verification = data.verification || {};
+      const checks = verification.checks || {};
+      const snapshot = data.market_snapshot || {};
+      const evidence = data.evidence || [];
+
+      out.hidden = false;
+      out.innerHTML = `
+        <section class="card">
+          <h2>Answer</h2>
+          <div class="answer">${escapeHtml(data.answer || "(empty)")}</div>
+        </section>
+        <section class="card">
+          <h2>Verifier</h2>
+          <div class="stats">
+            <span class="${checkClass(checks.numerical)}">numerical ${yn(checks.numerical)}</span>
+            <span class="${checkClass(checks.evidence)}">evidence ${yn(checks.evidence)}</span>
+            <span class="${checkClass(checks.logical)}">logical ${yn(checks.logical)}</span>
+            <span class="${checkClass(checks.financial_consistency)}">financial ${yn(checks.financial_consistency)}</span>
+            <span class="pill">confidence ${fmt(verification.confidence)}</span>
+          </div>
+        </section>
+        <section class="card">
+          <h2>TAO</h2>
+          <div class="stats">
+            <span class="pill">reasoning ${tao.reasoning_iterations ?? "—"}</span>
+            <span class="pill">retrievals ${tao.retrieval_expansions ?? "—"}</span>
+            <span class="pill">verifies ${tao.verification_calls ?? "—"}</span>
+            <span class="pill">compute saved ${fmt(tao.compute_saved_pct)}%</span>
+          </div>
+        </section>
+        <section class="card">
+          <h2>Market snapshot</h2>
+          <div class="stats">
+            <span class="pill">source ${escapeHtml(snapshot.source || "none")}</span>
+            <span class="pill">symbol ${escapeHtml(snapshot.symbol || "—")}</span>
+            <span class="pill">price ${fmt(snapshot.price)}</span>
+          </div>
+        </section>
+        <section class="card">
+          <h2>Evidence</h2>
+          ${evidence.length ? evidence.map((item, i) => `
+            <div class="evidence">
+              <strong>#${i + 1}</strong>
+              ${item.filing ? escapeHtml(item.filing) : ""}
+              ${item.page != null ? " · page " + item.page : ""}
+              <div>${escapeHtml(item.text_preview || "")}</div>
+            </div>
+          `).join("") : '<div class="empty">No retrieved evidence.</div>'}
+        </section>
+      `;
+    }
+
+    function yn(value) {
+      if (value === true) return "pass";
+      if (value === false) return "fail";
+      return "—";
+    }
+
+    function fmt(value) {
+      return value == null || value === "" ? "—" : value;
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+    }
+
+    function renderEval(target, data) {
+      const status = data.status || "not_run";
+      const label = data.label || "";
+      let score = "";
+      if (status === "complete" && typeof data.accuracy === "number" && data.total != null) {
+        const pct = (data.accuracy * 100).toFixed(1);
+        score = `<div class="stats"><span class="pill">${data.correct} / ${data.total}</span><span class="pill">${pct}%</span></div>`;
+      }
+      const reasons = (data.reasons || []).map((item) =>
+        `<div>${escapeHtml(item.id || "item")}: ${escapeHtml(item.reason || "")}</div>`
+      ).join("");
+      const rows = (data.items || []).map((item) => {
+        const latency = item.latency_seconds == null ? "—" : item.latency_seconds;
+        const path = item.expected_path || "—";
+        return `<div class="evidence">${escapeHtml(item.id || "")} · ${escapeHtml(path)} · ${escapeHtml(latency)}s</div>`;
+      }).join("");
+      target.innerHTML = `
+        <div>${escapeHtml(label)}</div>
+        <div class="stats"><span class="pill">status ${escapeHtml(status)}</span></div>
+        ${score}
+        ${reasons}
+        ${rows}
+      `;
+    }
+
+    async function loadEval(url, targetId) {
+      const target = document.getElementById(targetId);
+      try {
+        const response = await fetch(url);
+        const data = await response.json();
+        renderEval(target, data);
+      } catch (error) {
+        target.textContent = error.message || String(error);
+      }
+    }
+
+    loadEval("/api/eval/smoke", "smoke-body");
+    loadEval("/api/eval/validation", "validation-body");
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const question = input.value.trim();
+      if (!question) return;
+      go.disabled = true;
+      status.textContent = "Analyzing…";
+      status.className = "empty";
+      out.hidden = true;
+      try {
+        const response = await fetch("/api/analyze", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question }),
+        });
+        const data = await response.json();
+        if (!response.ok) {
+          throw new Error(data.detail || response.statusText);
+        }
+        status.textContent = "Done.";
+        render(data);
+      } catch (error) {
+        status.className = "err";
+        status.textContent = error.message || String(error);
+      } finally {
+        go.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,1500 @@
+{
+  "label": "Signed-number rescore of the saved 150-question predictions. Generated answers were not rerun. Appropriate abstentions are not included in the correct count. Not an estimate of model accuracy.",
+  "source_results": "evaluation/results/validation_150_baseline.json",
+  "scoring_rule": "evaluation/scoring.py after preserving a minus sign immediately before the number selected for comparison. Unit conversion, rounding, and tolerances are unchanged. Abstention remains not correct.",
+  "original_correct": 117,
+  "revised_correct": 125,
+  "total": 150,
+  "changed_classifications": [
+    {
+      "id": "dev-114",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -30.78,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Cash and cash equivalents from fiscal year 2025 to fiscal year 2026 was -30.78%. It was calculated as (20,935 - 30,242) / 30,242, multiplied by 100."
+    },
+    {
+      "id": "dev-116",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -19.95,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Commercial paper from fiscal year 2024 to fiscal year 2025 was -19.95%. It was calculated as (7,979 - 9,967) / 9,967, multiplied by 100."
+    },
+    {
+      "id": "dev-117",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -65.51,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Deferred tax on foreign earnings from fiscal year 2025 to fiscal year 2026 was -65.51%. It was calculated as (396 - 1,148) / 1,148, multiplied by 100."
+    },
+    {
+      "id": "dev-118",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -30.43,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Change in valuation allowances from fiscal year 2024 to fiscal year 2025 was -30.43%. It was calculated as (11.2 - 16.1) / 16.1, multiplied by 100."
+    },
+    {
+      "id": "dev-129",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -8.0,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Dilutive effect of stock-based awards from fiscal year 2025 to fiscal year 2026 was -8 million. It was calculated as 24 - 32."
+    },
+    {
+      "id": "dev-130",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -16.6,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Current income taxes - Total from fiscal year 2024 to fiscal year 2025 was -16.6 million. It was calculated as 667.2 - 683.8."
+    },
+    {
+      "id": "dev-131",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -2679.0,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Other comprehensive income/(loss) from fiscal year 2024 to fiscal year 2025 was -2,679 million. It was calculated as 1,601 - 4,280."
+    },
+    {
+      "id": "dev-133",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -90.6,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Definite-lived intangible assets - investment advisory agreements from fiscal year 2024 to fiscal year 2025 was -90.6 million. It was calculated as 125.9 - 216.5."
+    }
+  ],
+  "appropriate_abstentions": {
+    "count": 11,
+    "ids": [
+      "dev-135",
+      "dev-136",
+      "dev-137",
+      "dev-138",
+      "dev-139",
+      "dev-140",
+      "dev-141",
+      "dev-142",
+      "dev-001",
+      "dev-012",
+      "dev-015"
+    ],
+    "added_to_correct_count": false,
+    "unchanged_by_this_rescore": true
+  },
+  "uncertain_conflict_abstentions": {
+    "count": 2,
+    "ids": [
+      "dev-035",
+      "dev-080"
+    ],
+    "unchanged_by_this_rescore": true
+  },
+  "inappropriate_abstentions": {
+    "count": 11,
+    "ids": [
+      "dev-025",
+      "dev-028",
+      "dev-031",
+      "dev-034",
+      "dev-143",
+      "dev-144",
+      "dev-145",
+      "dev-147",
+      "dev-148",
+      "dev-149",
+      "dev-150"
+    ],
+    "unchanged_by_this_rescore": true
+  },
+  "incorrect_numeric_answers": {
+    "count": 1,
+    "ids": [
+      "dev-146"
+    ],
+    "unchanged_by_this_rescore": true
+  },
+  "items": [
+    {
+      "id": "dev-001",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 39777.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-002",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 3545.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-003",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 352.7,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-004",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 8919.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-005",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 12737.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-006",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 113.3,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-007",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 6154.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-008",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 5509.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-009",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 235.7,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-010",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 15041.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-011",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 14945.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-012",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 337.7,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-013",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 29943.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-014",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 3284.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-015",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 71.7,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-016",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 15195.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-017",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 3284.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-018",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 111.3,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-019",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 111482.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-020",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 115948.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-021",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 0.6,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-022",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 43369.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-023",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 128786.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-024",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 56.7,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-025",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 849.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-026",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 4167.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-027",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 311.9,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-028",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 817.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-029",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 5403.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-030",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2141.6,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-031",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 395.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-032",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 7427.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-033",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 177.5,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-034",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 2091.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-035",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 2972.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-036",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 506.3,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-037",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 9967.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-038",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 182749.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-039",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 593.9,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-040",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1498.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-041",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 15305.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-042",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 107.4,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-043",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 14773260.0,
+      "gold_unit": "thousand"
+    },
+    {
+      "id": "dev-044",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 30242.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-045",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 107.4,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-046",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 27873.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-047",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 20935.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-048",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 54.6,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-049",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 185233.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-050",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 366.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-051",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 7.9,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-052",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 26844.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-053",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 3.64,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-054",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 475.6,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-055",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 20777.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-056",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 7453.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-057",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 78.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-058",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 11698.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-059",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 27034.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-060",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 269.8,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-061",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 56197.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-062",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 26445.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-063",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1677.3,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-064",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 15.6,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-065",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2009.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-066",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1122.1,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-067",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 125848.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-068",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 133812.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-069",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 42.7,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-070",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 10246.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-071",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 9227.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-072",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 466.1,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-073",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 132729.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-074",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 17761.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-075",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 81.2,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-076",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 13016.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-077",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 12587.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-078",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 30.8,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-079",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 12875.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-080",
+      "category": "lookup",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 4171.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-081",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 3.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-082",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 27337.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-083",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 53.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-084",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2.8,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-085",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2577.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-086",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 404.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-087",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2309.8,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-088",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 15091.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-089",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 221.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-090",
+      "category": "lookup",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 50.4,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-091",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 83.42,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-092",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 89.262,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-093",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2.7579,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-094",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1.217,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-095",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 56.061,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-096",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2.6034,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-097",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 19.98,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-098",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 54.729,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-099",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 2.0883,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-100",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 93.736,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-101",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 42.669,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-102",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1.8479,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-103",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 298.085,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-104",
+      "category": "unit_conversion",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 4.738,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-105",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 46.21,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-106",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 44.13,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-107",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 29.82,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-108",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 25.31,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-109",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 68.82,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-110",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 69.76,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-111",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 45.62,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-112",
+      "category": "ratio",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 44.64,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-113",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 20.01,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-114",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -30.78,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Cash and cash equivalents from fiscal year 2025 to fiscal year 2026 was -30.78%. It was calculated as (20,935 - 30,242) / 30,242, multiplied by 100."
+    },
+    {
+      "id": "dev-115",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 11.48,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-116",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -19.95,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Commercial paper from fiscal year 2024 to fiscal year 2025 was -19.95%. It was calculated as (7,979 - 9,967) / 9,967, multiplied by 100."
+    },
+    {
+      "id": "dev-117",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -65.51,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Deferred tax on foreign earnings from fiscal year 2025 to fiscal year 2026 was -65.51%. It was calculated as (396 - 1,148) / 1,148, multiplied by 100."
+    },
+    {
+      "id": "dev-118",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -30.43,
+      "gold_unit": "percent",
+      "predicted_answer": "The growth rate in Change in valuation allowances from fiscal year 2024 to fiscal year 2025 was -30.43%. It was calculated as (11.2 - 16.1) / 16.1, multiplied by 100."
+    },
+    {
+      "id": "dev-119",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 4.8,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-120",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 104.42,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-121",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 4.0,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-122",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 19.5,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-123",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 88.97,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-124",
+      "category": "growth",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1.57,
+      "gold_unit": "percent"
+    },
+    {
+      "id": "dev-125",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 12989.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-126",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 9101.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-127",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 20.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-128",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 9834.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-129",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -8.0,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Dilutive effect of stock-based awards from fiscal year 2025 to fiscal year 2026 was -8 million. It was calculated as 24 - 32."
+    },
+    {
+      "id": "dev-130",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -16.6,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Current income taxes - Total from fiscal year 2024 to fiscal year 2025 was -16.6 million. It was calculated as 667.2 - 683.8."
+    },
+    {
+      "id": "dev-131",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -2679.0,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Other comprehensive income/(loss) from fiscal year 2024 to fiscal year 2025 was -2,679 million. It was calculated as 1,601 - 4,280."
+    },
+    {
+      "id": "dev-132",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 1179.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-133",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": true,
+      "gold_value": -90.6,
+      "gold_unit": "million",
+      "predicted_answer": "The change in Definite-lived intangible assets - investment advisory agreements from fiscal year 2024 to fiscal year 2025 was -90.6 million. It was calculated as 125.9 - 216.5."
+    },
+    {
+      "id": "dev-134",
+      "category": "comparison",
+      "abstained": false,
+      "original_answer_correct": true,
+      "revised_answer_correct": true,
+      "gold_value": 298.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-135",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-136",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-137",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-138",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-139",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-140",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-141",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-142",
+      "category": "insufficient_evidence",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": null,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-143",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 19.8,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-144",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 221.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-145",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 523.0,
+      "gold_unit": "million"
+    },
+    {
+      "id": "dev-146",
+      "category": "narrative",
+      "abstained": false,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 10.2,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-147",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 5.0,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-148",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 1.1,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-149",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 0.3,
+      "gold_unit": "billion"
+    },
+    {
+      "id": "dev-150",
+      "category": "narrative",
+      "abstained": true,
+      "original_answer_correct": false,
+      "revised_answer_correct": false,
+      "gold_value": 10.125,
+      "gold_unit": "million"
+    }
+  ]
+}

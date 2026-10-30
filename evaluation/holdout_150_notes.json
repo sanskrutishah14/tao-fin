@@ -1,0 +1,189 @@
+{
+  "label": "Independent holdout. Companies are absent from the smoke, validation, 50-question, and 150-question development sets. Not a guarantee of overall financial accuracy.",
+  "companies": {
+    "JNJ": {
+      "company": "Johnson & Johnson",
+      "sector": "health care",
+      "filings": [
+        {
+          "report_date": "2025-12-28",
+          "accession": "0000200406-26-000016",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-01-03",
+          "accession": "0000200406-21-000008",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/jnj-20210103.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "KO": {
+      "company": "The Coca-Cola Company",
+      "sector": "consumer staples",
+      "filings": [
+        {
+          "report_date": "2025-12-31",
+          "accession": "0001628280-26-010047",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-12-31",
+          "accession": "0000021344-22-000009",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ko-20211231.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "CAT": {
+      "company": "Caterpillar Inc.",
+      "sector": "industrials",
+      "filings": [
+        {
+          "report_date": "2025-12-31",
+          "accession": "0000018230-26-000008",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-12-31",
+          "accession": "0000018230-22-000050",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000001823022000050/cat-20211231.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "JPM": {
+      "company": "JPMorgan Chase & Co.",
+      "sector": "financials",
+      "filings": [
+        {
+          "report_date": "2025-12-31",
+          "accession": "0001628280-26-008131",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-12-31",
+          "accession": "0000019617-22-000272",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961722000272/jpm-20211231.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "XOM": {
+      "company": "Exxon Mobil Corporation",
+      "sector": "energy",
+      "filings": [
+        {
+          "report_date": "2025-12-31",
+          "accession": "0000034088-26-000045",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-12-31",
+          "accession": "0000034088-22-000011",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408822000011/xom-20211231.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "WMT": {
+      "company": "Walmart Inc.",
+      "sector": "consumer retail",
+      "filings": [
+        {
+          "report_date": "2026-01-31",
+          "accession": "0000104169-26-000055",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-01-31",
+          "accession": "0000104169-21-000033",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416921000033/wmt-20210131.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "NEE": {
+      "company": "NextEra Energy, Inc.",
+      "sector": "utilities",
+      "filings": [
+        {
+          "report_date": "2025-12-31",
+          "accession": "0000753308-26-000015",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-12-31",
+          "accession": "0000753308-22-000014",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330822000014/nee-20211231.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    },
+    "PFE": {
+      "company": "Pfizer Inc.",
+      "sector": "health care",
+      "filings": [
+        {
+          "report_date": "2025-12-31",
+          "accession": "0000078003-26-000026",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+          "cohort": "latest"
+        },
+        {
+          "report_date": "2021-12-31",
+          "accession": "0000078003-22-000027",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000027/pfe-20211231.htm",
+          "cohort": "fy2021"
+        }
+      ]
+    }
+  },
+  "scaled_row_counts": {
+    "JNJ": 421,
+    "KO": 590,
+    "CAT": 682,
+    "JPM": 2401,
+    "XOM": 60,
+    "WMT": 526,
+    "NEE": 546,
+    "PFE": 602
+  },
+  "development_fiscal_years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "question_count": 150,
+  "unseen_company_count": 150,
+  "unseen_period_count": 56,
+  "seen_period_new_company_count": 94,
+  "categories": {
+    "lookup": 103,
+    "unit_conversion": 14,
+    "growth": 12,
+    "comparison": 10,
+    "narrative": 3,
+    "insufficient_evidence": 8
+  },
+  "limitations": [
+    "Every issuer is absent from the retained smoke, validation, 50-question, and 150-question files. The deleted FinanceBench diagnostic did not leave a company list in the working tree.",
+    "Latest 10-K comparative columns use 2023, 2024, 2025, or 2026. Those year numbers already appear in the development sets, so those questions are seen_period_new_company even though the company is new.",
+    "unseen_period questions use a fiscal year that is not a requested year in the development files. They come from FY2021 10-Ks when that filing was available.",
+    "A table line is used only when the requested fiscal year appears once on that line. Lines that repeat a year, including pension rollforwards concatenated by the parser, are excluded.",
+    "Ratios use one unique profit line and the largest unique revenue or net-sales line in the same scale. The margin must be above 20 and below 80 percent, and the revenue total must be at least 15 billion dollars. A profit line that is too small to be the consolidated total is omitted.",
+    "Narrative gold is the single dollar amount in the cited sentence. These questions were not chosen because the current narrative reader already answers them.",
+    "Insufficient-evidence items ask for euros. The cited line is stated in the table's dollar scale and the filing provides no exchange rate. An abstention is the expected result and is not added to the correct count.",
+    "Exxon tables that say only '(millions of dollars)' do not receive a parser scale. Those rows are not used as gold.",
+    "No live market price is used as gold."
+  ]
+}

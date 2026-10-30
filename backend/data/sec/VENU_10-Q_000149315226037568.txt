@@ -1,0 +1,3188 @@
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+10-Q
+(Mark
+One)
+Commission
+File Number:
+001-42422
+Venu
+Holding Corporation
+(Exact
+name of registrant as specified in its charter)
+(719)
+895-5483
+(Registrant’s
+telephone number, including area code)
+Not
+Applicable
+(Former
+name, former address and former fiscal year, if changed since last report)
+Securities
+registered pursuant to Section 12(b) of the Act:
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to the filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check One)
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Sec 13(a) of the Exchange Act.
+☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No
+☒
+The
+number of shares of the issuer’s common stock outstanding as of August 13, 2026 was
+56,210,552
+.
+Throughout
+this Quarterly Report on Form 10-Q (this “Quarterly Report”), the terms “Venu,” “we,” “us,”
+“our” or the “Company” refer to Venu Holding Corporation, a Colorado corporation.
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This
+Quarterly Report contains forward-looking statements regarding future events and the Company’s future results. These statements
+are based on current expectations, estimates, forecasts, and projections about the industry in which the Company operates and the beliefs
+and assumptions of the Company’s management. Words such as “expects,” “anticipates,” “targets,”
+“goals,” “projects,” “intends,” “plans,” “believes,” “seeks,”
+“estimates,” “continues,” “could,” “would,” “should,” “will,”
+“may,” variations of such words, and similar expressions of a forward-looking nature are intended to identify such forward-looking
+statements. In addition, any statements that refer to projections of the Company’s future financial performance, the Company’s
+anticipated growth and potential in its business, and other characterizations of future events or circumstances are forward-looking statements.
+Readers are cautioned that these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions
+that are difficult to predict, including those identified in the “Risk Factors” section of our Annual Report on Form 10-K
+for the year ended 2025, and this Quarterly Report and elsewhere herein. The forward-looking information contained in this Quarterly
+Report is generally located under the heading “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations” but may be found in other locations as well.
+Therefore,
+actual results may differ materially and adversely from those expressed in any forward-looking statements, and readers are cautioned
+not to place undue reliance upon such statements in making an investment decision. The Company disclaims any obligation to update factors
+or to announce the result of any revisions to any of the forward-looking statements contained herein to reflect future events or developments.
+In
+addition, statements such as “we believe” and similar statements reflect our beliefs and opinions on the relevant subject.
+These statements are based upon information available to us as of the date of this Quarterly Report and, although we believe such information
+forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to
+indicate that we have conducted a thorough inquiry into, or review of, all potentially available relevant information. These statements
+are inherently uncertain, and investors are cautioned not to unduly rely upon these statements. Furthermore, if our forward-looking statements
+prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements,
+you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives
+and plans in any specified time frame, or at all. You should carefully read the factors set forth in the “Risk Factors” section
+of this Quarterly Report and other cautionary statements made throughout this
+Quarterly
+Report, and you should interpret such factors and cautionary statements as being applicable to all forward-looking statements wherever
+appearing in this Quarterly Report. We undertake no obligation to publicly update or revise any forward-looking statement, whether as
+a result of new information, future events, changed circumstances, or otherwise, unless required by law. These cautionary statements
+qualify all forward-looking statements attributable to us or persons acting on our behalf.
+Although
+we believe these forward-looking statements are reasonable, all forward-looking statements are subject to various risks and uncertainties,
+and our projections and expectations may be incorrect. The factors that may affect our expectations regarding our operations include,
+among others, the following:
+New
+factors emerge from time to time, and it is not possible for us to predict all such factors. Should one or more of the risks or uncertainties
+described in this Quarterly Report or any other filing with the Securities and Exchange Commission (the “SEC”) occur, or
+should the assumptions underlying the forward-looking statements we make herein and therein prove incorrect, our actual results and plans
+could differ materially from those expressed in any forward-looking statements. We undertake no obligation to update publicly any forward-looking
+statements, whether as a result of new information, future events, or otherwise, except as required by law.
+You
+should read this Quarterly Report and the documents that we reference within it with the understanding that our actual future results,
+performance, and events and circumstances may be materially different from what we expect.
+Venu
+Holding Corporation
+FORM
+10-Q
+TABLE
+OF CONTENTS
+PART
+I
+FINANCIAL
+STATEMENTS
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+UNAUDITED
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in
+US Dollars)
+See
+notes to accompanying condensed consolidated financial statements.
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in
+US Dollars)
+See
+notes to accompanying condensed consolidated financial statements.
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+(in
+US Dollars)
+See
+notes to accompanying condensed consolidated financial statements.
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in
+US Dollars)
+See
+notes to accompanying condensed consolidated financial statements.
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+NOTES
+TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+AS
+OF AND FOR THE THREE AND SIX MONTHS ENDED
+JUNE
+30, 2026 AND 2025
+(UNAUDITED)
+NOTE
+1 –
+ORGANIZATION AND DESCRIPTION OF BUSINESS
+Organization
+Venu
+Holding Corporation (“Venu” or the “Company”) is a Colorado corporation formed on March 13, 2017. The Company
+is a hospitality and entertainment business and earns revenues from operating restaurants, hosting events, renting event space and operating
+outdoor amphitheaters. The Company and its subsidiaries operate within the United States of America.
+The
+Company’s subsidiaries and its interests in each (either directly or indirectly through other subsidiaries) are presented below
+as of June 30, 2026 and December 31, 2025:
+SCHEDULE OF COMPANY’S SUBSIDIARIES AND ITS INTERESTS
+NOTE
+1 – ORGANIZATION AND DESCRIPTION OF BUSINESS (Continued)
+Bourbon
+Brothers Holdings LLC (“BBH”) is a holding company designed to own and manage each of the Bourbon Brothers-related operating
+entities.
+Bourbon
+Brothers Smokehouse and Tavern CS, LLC (“BBSTCS”) is the sole owner and operator of the Bourbon Brothers Smokehouse
+& Tavern (“BBST”) restaurant operations in Colorado Springs, Colorado (such restaurant, “BBST CO”). The
+restaurant building was leased by BBSTCS from Hospitality Income & Asset, LLC (“HIA”), a majority-owned subsidiary
+of the Company, whom the Company had a lease with and in which the Company purchased a majority interest in during the year ended
+December 31, 2022. On June 24, 2026, HIA assigned its
+lease interests in and lease with BBSTCS to Bourbon Brothers Retail Properties, DST (“BBRP DST”), a wholly owned
+subsidiary of Venu (refer to Note 5 – Leases for further details).
+Bourbon
+Brothers Presents, LLC d/b/a Phil Long Music Hall (“BBP”) specializes in producing music concerts as well as other types
+of live entertainment, including comedy acts and speaking engagements, at the Company’s indoor event venue in Colorado
+Springs, Colorado (“BBP CO”), which became known as “Phil Long Music Hall at Bourbon Brothers” in August
+2024. BBP is the sole owner and operator of the BBP CO facility and leased the
+building from HIA. Pursuant to a Lease Agreement and Assignment and Assumption Agreement dated June 24, 2026, HIA reassigned its
+lease interests in and lease with BBP to BBRP DST, a wholly owned subsidiary of Venu (refer to Note 5 – Leases for further
+details). The Company owns
+89
+%
+of BBP and
+100
+%
+of its voting control, and it consolidates BBP into its financials.
+Bourbon
+Brothers Smokehouse and Tavern Centennial, LLC (“BBSTCentennial”) is the sole owner and operator of the BBST restaurant
+the Company plans to develop in Centennial, Colorado (such restaurant, “BBST Centennial”), which is expected to
+open in mid- to late 2027.
+Bourbon
+Brothers Presents Centennial, LLC (“BBPCentennial”) will operate as the Company’s concert and event venue in Centennial,
+Colorado (“BBP Centennial”), which is expected to open in mid- to late 2027. BBP Centennial will specialize in producing
+music concerts as well as other types of live entertainment, including comedy acts and speaking engagements, and the BBP Centennial concert
+and event venue facility is expected to be utilized for corporate events and weddings.
+Bourbon
+Brothers Smokehouse and Tavern GA LLC (“BBSTGA”) is the sole owner and operator of the BBST restaurant operations in Gainesville,
+Georgia (such restaurant, “BBST GA”).
+Bourbon
+Brothers Presents GA LLC (“BBPGA”) operates as the Company’s concert and event venue in Gainesville, Georgia (“BBP
+GA”), specializing in producing music concerts as well as other types of live entertainment, including comedy acts and speaking
+engagements. Additionally, the BBP GA concert and event venue facility is utilized to host corporate events and weddings. BBPGA is the
+sole owner and operator of the facility operations.
+Bourbon
+Brothers Licensing, LLC (“BBL”) serves as the entity which licenses the Bourbon Brothers brand.
+Notes
+Holding Company, LLC (“NH”) is a pass-through entity established to hold the Company’s equity interests in various
+subsidiaries.
+13141
+BP, LLC (“13141 BP”) was acquired by the Company on June 26, 2024. 13141 BP owned the land and buildings that was used
+in the operations of the Company’s former Notes Eatery restaurant. The
+Company owned
+100
+%
+of 13141 BP and
+100
+%
+of its voting control until 13141 BP’s sale of the land and building to a third party on July 18, 2025. Upon the sale, the
+Company determined the disposed component did not meet discontinued-operations criteria, and its financial impacts were reported
+within the normal results of continuing operations (and not segregated below income from continuing operations).
+NOTE
+1 – ORGANIZATION AND DESCRIPTION OF BUSINESS (Continued)
+The
+Sunset Amphitheater LLC (“Sunset”) operates the Company’s amphitheater
+located in Colorado Springs, Colorado, which opened in August 2024, and is now known as “Ford Amphitheater” pursuant to a
+naming-rights agreement. The Company owns
+14
+% of this variable interest entity and
+100
+% of its voting control, and it consolidates Sunset
+into its financials.
+Hospitality
+Income & Asset, LLC (“HIA”) was acquired by the Company on April 1, 2022 and owned the land and buildings used for
+the operations of the BBST CO restaurant and the BBP CO concert and event venue (such land, the “DST Real Estate”)
+pursuant to lease arrangements between HIA and each of BBSTCS (with respect to BBST CO) and BBP (with
+respect to BBP CO). On June 24, 2026, HIA conveyed the DST Real Estate to BBRP DST, a wholly owned subsidiary of Venu, pursuant to a
+Lease Agreement and Assignment and Assumption Agreement (refer to Note 5 – Leases for further details). The Company owns
+99
+%
+of HIA and
+100
+%
+of its voting control, and it consolidates HIA into its financials.
+GA
+HIA, LLC (“GAHIA”) owns the land and buildings that both BBSTGA and BBPGA currently use for their restaurant and music venue
+operations pursuant to existing lease arrangements. GAHIA is the Colorado-based entity that holds the Company’s Georgia-based operations.
+The Company owns
+15
+% of this variable interest entity and
+100
+% of its voting control, and it consolidates GAHIA into its financials.
+Notes
+Live Real Estate LLC (“NLRE”) holds title to certain Company real estate assets.
+Roth’s
+Sea & Steak LLC (f/k/a Roth’s Seafood and Chophouse, LLC) (“Roth Sea”) operates as the Roth’s Sea & Steak
+restaurant (“Roth’s Sea & Steak”) adjacent to Ford Amphitheater, which opened November 8, 2025.
+Sunset
+Operations LLC (“Sunset Ops”) is the operating entity that manages the operations of Ford Amphitheater.
+Sunset
+Hospitality Collection LLC (“SHC”) owns the building that is leased to Roth’s Sea and NHC LLC, which opened to the
+public in early November 2025. The Company, through NLRE, owns
+53
+%
+of SHC and
+100
+%
+of its voting control, and it consolidates SHC into its financials.
+Notes
+Hospitality Collection LLC (“NHC LLC”) is the operating entity that manages the venue rentals and 1,200 additional
+seats of Notes Hospitality Collection (“NHC”), which can be utilized to view the concerts and shows at Ford Amphitheater
+and opened to the public in November 2025. NHC consists of two premier, configurable hospitality spaces that frame either side of
+Roth’s Sea & Steak and can be used for hosting corporate events, weddings, trade shows, conventions, and other
+events.
+Sunset
+at Broken Arrow LLC (“Sunset BA”) will operate as a multi-seasonal, hospitality-focused music amphitheater located in Broken
+Arrow, Oklahoma to be known as the “Regent Bank Amphitheater,” which broke ground in October 2025 and is expected to open in
+Fall 2026. The Company, through NLRE, owns
+54
+% of Sunset BA and
+100
+% of its voting control, and it consolidates Sunset BA into its financials.
+Sunset
+Operations at Broken Arrow, LLC (“BAOps”) is the operating entity that manages the operations of the Regent Bank
+Amphitheater.
+Sunset
+Ground at Broken Arrow, LLC (“BAGround”) owns the land that the Regent Bank Amphitheater is being constructed
+upon.
+Sunset
+at Mustang Creek LLC (“Sunset MC”) was planned to be a hospitality-focused music amphitheater located in Mustang Creek, Oklahoma.
+The Company decided not to move forward with operations in this municipality in 2025.
+Sunset
+at McKinney LLC (“Sunset McK”) will operate as a multi-seasonal, hospitality-focused music amphitheater located in McKinney,
+Texas (“The Sunset McKinney”), which officially broke ground in June 2025 and is expected to open in Q1 2027. The Company,
+through NLRE, owns
+67
+% of Sunset McK and
+100
+% of its voting control, and it consolidates Sunset McK into its financials.
+NOTE
+1 – ORGANIZATION AND DESCRIPTION OF BUSINESS (Continued)
+Sunset
+Operations at McKinney, LLC (“McKinneyOps”) is the operating entity that manages The Sunset McKinney’s operations.
+Sunset
+Ground at McKinney LLC (“McKGround”) owns the land that The Sunset McKinney is being constructed on.
+Sunset
+at El Paso, LLC (“Sunset EP”) will operate as a multi-seasonal, hospitality-focused music amphitheater located in El Paso,
+Texas (“The Sunset El Paso”), which broke ground in November 2025 and is expected to open in early 2028. The Company,
+through NLRE, owns
+98
+% of Sunset EP and
+100
+% of its voting control, and it consolidates Sunset EP into its financials.
+Sunset
+Operations at El Paso LLC (“EPOps”) is the operating entity that manages The Sunset El Paso’s operations.
+Sunset
+Ground at El Paso LLC (“EPGround”) owns the land that The Sunset El Paso will be constructed on.
+Polaris
+Pointe Parking LLC (“PPP”) owned the land for parking at Ford Amphitheater. On October 27, 2025, NLRE conveyed this property
+to a related party pursuant to a purchase and sale agreement that closed on November 5, 2025 (refer to Note 10 – Equity for further
+details), and it was then leased back for a
+20
+-year term pursuant to a ground lease agreement (refer to Note 5 – Leases for further
+details).
+Venu
+Income LLC (“VenuInc”) is an entity created for the purpose of generating revenues from rental income and the sale of
+concert tickets for the Regent Bank Amphitheater and The Sunset McKinney. The Company owns
+94
+%
+of VenuInc and
+100
+%
+of its voting control, and it consolidates VenuInc into its financials.
+Venu
+VIP Rides LLC (“Rides”) is an entity that provides transportation services to Venu’s employees and shareholders. The
+Company owns
+50
+% of Rides and
+100
+% of its voting control, and it consolidates Rides into its financials.
+Notes
+CS I, DST (“the Trust”), a Delaware statutory trust and a now wholly owned subsidiary of the Company, owned the land on
+which Sunset’s improvements for the Ford Amphitheater are located. On August 22, 2024, NLRE conveyed the
+9.41
+acres of real property upon which the Ford Amphitheater is located (the “Sunset Property”) to Notes CS I Holdings, LLC,
+a wholly owned subsidiary of Venu (“Holdings LLC”), and Holdings LLC conveyed the Sunset Property to the Trust in
+exchange for
+100
+%
+of the Trust’s beneficial interests.
+On
+June 5, 2026, pursuant to a purchase and sale agreement, the Trust conveyed the Sunset Property and NLRE conveyed an additional
+1.1
+acres of real property (collectively, including the improvements thereon, the “DST Property”) to a related party of the
+Company (refer to Note 10 – Equity for further details). The DST Property was then leased back to the Trust under a
+25
+-year
+ground lease agreement (refer to Note 5 – Leases for further details).
+The
+signatory trustee for the Trust is Notes CS I ST, LLC (“Notes Trustee”), a wholly owned subsidiary of Venu. As the
+Trust’s signatory trustee, Notes Trustee has the sole power and authority to manage the activities and affairs of the Trust,
+and to hold legal title to the property held by the Trust. Holdings, LLC previously sold beneficial interests in the Trust to third
+parties However, pursuant to the Purchase and Sale Agreement dated June 5, 2026, the Trust used a portion of the proceeds from the
+financing arrangement of the sale of the DST Property to redeem
+100
+%
+of the beneficial interests in the Trust.
+Bourbon
+Brothers Retail Properties, DST (“BBRP DST”), a Delaware statutory trust, owns the DST Real Estate underlying the BBST
+CO and the BBP CO facilities, which was conveyed by HIA to BBRP DST pursuant to a Lease Agreement and Assignment and Assumption
+Agreement on June 24, 2026, in exchange for
+100
+%
+of the beneficial interests in BBRP DST. The signatory trustee for BBRP DST is Bourbon Brothers Retail Properties ST LLC
+(“BBRP Trustee”), a wholly owned subsidiary of Venu.
+NOTE
+1 – ORGANIZATION AND DESCRIPTION OF BUSINESS (Continued)
+Additional
+investors that acquire beneficial interests in BBRP DST and become beneficial owners will have no voting rights with respect to the
+affairs of BBRP DST and will not have legal title to any portion of the property held by BBRP DST. Instead, BBRP Trustee, as BBRP
+DST’s signatory trustee, has the sole power and authority to manage the activities and affairs of BBRP DST, including the
+power and authority to sell the property held by BBRP DST and to hold legal title to such property. Under the documents governing
+BBRP DST, the trust’s beneficial interest holders are entitled to distributions on a pro rata basis of the base rent payments
+made to BBRP DST from each of BBSTCS (with respect to BBST CO) and BBP (with respect to BBP CO).
+Venu
+LuxeSuite Holdings, LLC (“Luxe”) is an entity that provides real estate investment opportunities to investors through triple-net
+(“NNN”) lease arrangements, which provide for the sale of use rights and the concurrent lease-back of certain luxury concert
+suites (each, a “Luxe FireSuite”) at certain of the Company’s Sunset Amphitheater venues. The Company owns
+100
+% of
+Luxe and
+100
+% of its voting control, and it consolidates Luxe into its financials.
+Venu
+280, LLC d/b/a Artist 280 (“Artist 280”) was formed, in part, to provide private air and travel services to artists
+who perform at certain Company venues. The Company owns
+100
+% of Artist 280 and
+100
+% of its voting control, and it consolidates Artist
+280 into its financials.
+Venu
+Presents LLC (“Venu Presents”) is the operator that manages the Sunset Amphitheater in McKinney, TX operations and premises.
+Sunset
+at Houston in Webster, LLC (“Sunset HOU”) will operate as a multi-seasonal, hospitality-focused music amphitheater located
+in the greater Houston, Texas area (“The Sunset Houston”), which is expected to open in mid-2028. The Company owns
+96
+%
+of Sunset HOU and
+100
+% of its voting control, and it consolidates Sunset HOU into its financials.
+Hall
+at Centennial LLC (“Hall at Centennial”) owns the land and buildings that will be used for the restaurant and music
+venue operations of both BBST Centennial and BBP Centennial pursuant to existing lease arrangements. Hall at Centennial is the
+Colorado-based entity that holds the Company’s Centennial, CO-based assets and operations. The Company owns
+82
+%
+of this variable interest entity and
+100
+%
+of its voting control, and it consolidates Hall at Centennial into its financials.
+Venu
+FireSuite Income, LLC (“VenuFSIncome”) was formed to hold lease interests in specified FireSuites at certain of the Company’s
+venues, and receive from third parties to fund construction costs associated with the Company’s
+multi-seasonal venues. The Company, through NLRE, owns
+100
+% of VenuFSIncome and
+100
+% of its voting control, and it consolidates VenuFSIncome
+into its financials.
+Sunset
+at Chattanooga, LLC (“Sunset Chat”) will operate as a multi-seasonal, hospitality-focused music amphitheater located in
+Chattanooga, Tennessee (“The Sunset Chattanooga”). Construction of The Sunset Chattanooga has not yet begun. The Company owns
+100
+%
+of Sunset Chat and
+100
+%
+of its voting control, and it consolidates Sunset Chat into its financials. On May 8, 2026, Sunset Chat entered into a Purchase and
+Sale Agreement to acquire approximately
+15
+acres of land located in The Bend in Chattanooga, Tennessee, upon which the Company intends to develop and construct an
+omni-content, multi-seasonal, 12,500-capacity amphitheater (“The Sunset Chattanooga”). The deposit on the land is currently held in escrow and the Company is
+negotiating incentives with county, city, and state entities.
+Sunset Amphitheater Ground at Chattanooga,
+LLC (“ChatGround”) owns the land that The Sunset Chattanooga will be constructed on.
+NOTE
+2 –
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis
+of Presentation and Use of Estimates
+The
+accompanying financial statements have been prepared in conformity with accounting principles generally accepted in the United States
+of America (“U.S. GAAP”) and applicable rules and regulations of the SEC. The accompanying unaudited condensed financial statements have been prepared by the Company. These statements include
+all adjustments (consisting only of normal recurring adjustments) which management believes necessary for a fair presentation of the statements
+and have been prepared on a consistent basis using the accounting policies described in Note 2 Significant Accounting Policies included
+in the Notes to Financial Statements included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025,
+as filed with the SEC on March 31, 2026 (the “2025 Annual Report”). Certain financial information and footnote disclosures
+normally included in financial statements prepared in accordance with US GAAP have been condensed or omitted pursuant to such rules and
+regulations, although the Company believes that the accompanying disclosures are adequate to make the information presented not misleading.
+The Notes to Financial Statements included in the 2025 Annual Report should be read in conjunction with the accompanying interim financial
+statements. The interim operating results for the three and six months ended June 30, 2026 may not be necessarily indicative of the operating
+results expected for the full year or any future period.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Risks
+and Uncertainties
+The
+preparation of the consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and judgements
+that affect the application of accounting policies and the reported amounts of assets and liabilities and disclosures of contingent assets
+and liabilities at the date of consolidated financial statements and the reported amounts of revenues and expenses during the reporting
+period. Estimates and assumptions are continuously evaluated and are based on management’s experience and other factors, including
+expectations regarding future events that are believed to be reasonable under the circumstances. Actual results may differ significantly
+from these estimates.
+Significant
+estimates made by management include, but are not limited to: economic lives of leased assets; impairment assessment of long-lived assets;
+depreciable lives of property, plant and equipment; useful lives of intangible assets; accruals for contingencies including tax contingencies;
+valuation allowances for deferred income tax assets; estimates of fair value of identifiable assets and liabilities acquired in business
+combinations; initial measurement (and any subsequent remeasurement) of operating right-of-use assets and lease liabilities, including
+the discount rate used in the present value calculation of future payments, and estimates of fair value used in the private stock valuations
+used for equity-based compensation of warrants and stock options.
+Liquidity
+and Capital Resources
+The
+Company has devoted substantially all its efforts to developing and implementing its business plan, raising capital, opening,
+planning and operating its restaurants and event venues in Colorado, Georgia, Oklahoma, Texas, and Tennessee. The accompanying consolidated
+financial statements have been prepared on a going concern basis of accounting, which contemplates continuity of operations,
+realization of assets and liabilities and commitments in the normal course of business.
+The
+accompanying consolidated financial statements do not reflect any adjustments that might result if the Company is unable to continue
+as a going concern. As of the issuance of these financials, management has concluded that substantial doubt about the Company’s
+ability to continue as a going concern for the next twelve months has been alleviated.
+The
+Company had an accumulated deficit of $
+123,098,229
+and $
+91,454,930
+as of June 30, 2026 and December 31, 2025, respectively, and incurred
+net losses of $
+34,177,639
+and $
+31,736,344
+for the six months ended June 30, 2026 and 2025, respectively. These conditions raised substantial
+doubt about the Company’s ability to continue as a going concern; however, based on management’s expectations that the Company
+will add additional venue locations and continue its business operations, Venu believes that such substantial doubt has been alleviated.
+The
+Company believes that cash on hand from its prior equity offerings, its sale lease-back arrangements, revenues from operating venues
+and restaurants in Colorado Springs, Colorado and Gainesville, Georgia, on-going sales of interests in Luxe FireSuites, the
+operations at the Ford Amphitheater campus (including Roth’s Sea & Steak and Brohan’s), the anticipated opening of
+the Regent Bank Amphitheater in Broken Arrow, Oklahoma in Fall 2026, debt facilities the Company closed on subsequent to June 30, 2026
+and expects to close on later in 2026, and potentially other additional capital raising and debt financing transactions or the use
+of the Company’s at-the-market sales program from time to time will allow the Company to continue its business operations for at least 12
+months from the date of this Quarterly Report. Nonetheless, the Company’s continued implementation of its business plan to
+open under-development venues and add additional locations is dependent on its future engagement in strategic locations, real estate
+transactions, capital raising, and debt financing. There is no guarantee that the Company will be able to execute on these plans. If
+the Company is unable to enter into strategic relationships and transactions, the Company may be required to delay its business plan
+implementation for future expansion, which would have a material adverse impact on the Company’s growth plan.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Principles
+of Consolidation
+The
+accompanying consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries, majority-owned
+subsidiaries, and variable interest entities. For those entities that aren’t wholly owned by Company, the Company assesses the
+voting and management control to confirm the Company is the primary beneficiary of the majority-owned subsidiaries and variable
+interest entities. All intercompany accounts and transactions have been eliminated upon consolidation. See
+“Organization” and “Non-Controlling Interest and Variable Interest Entities” for further discussions of the
+entities that are majority-owned subsidiaries and variable interest entities. Investments for which the Company exercises
+significant influence but does not have control are accounted for under the equity method. See Note 8 – Investments in Related
+Parties for further discussion.
+Fair
+Value Measurements
+Fair
+values have been determined for measurement and/or disclosure purposes based on the following methods. The Company characterizes inputs
+used in determining fair value using a hierarchy that prioritizes inputs depending on the degree to which they are observable. The levels
+of the fair value hierarchy are as follows:
+●
+Level 1 – fair value measurements are those derived from quoted prices (unadjusted) in active markets for identical assets or liabilities;
+●
+Level 2 – fair value measurements are those derived from inputs other than quoted prices included within Level 1 that are observable
+for the asset or liability, either directly (i.e., as prices) or indirectly (i.e., derived from prices); and
+●
+Level 3 – fair value measurements are those derived from valuation techniques that include inputs for the asset or liability that
+are not based on observable market data (unobservable inputs).
+The
+carrying values of cash and cash equivalents, inventories, prepaid expenses and other current assets, payables and accrued liabilities
+approximate their fair values because of the short-term nature of these financial instruments. Balances due to and due from related parties
+do not have specific repayment dates and are payable on demand, thus are also considered current and short-term in nature, hence carrying
+value approximates fair value and are included in current assets or liabilities.
+Cash
+and Cash Equivalents
+The
+Company considers cash and cash equivalents to include all highly liquid investments with an original maturity of three months or less.
+Our cash and cash equivalents include bank accounts as well as interest-bearing accounts consisting primarily of bank deposits and money
+market accounts managed by third-party financial institutions. As of June 30, 2026, the Company had $
+1,362,248
+of cash and cash equivalents
+in the form of money market accounts that earned interest income of $
+181,651
+and $
+309,322
+for the three and six months ended June 30,
+2026, respectively. As of December 31, 2025, the Company had $
+23,095,342
+of cash and cash equivalents in the form of money market accounts
+that earned interest income of $
+24,293
+and $
+127,486
+for the three and six months ended June 30, 2025, respectively. Cash and cash equivalents
+may exceed federally insured limits.
+Inventories
+Inventories,
+consisting principally of food, beverages and supplies, are stated at the lower of cost (determined by the first-in, first-out method)
+or net realizable value. The Company reviews inventory on a weekly basis and determines if slow-moving or obsolete inventory exists.
+No allowance was deemed necessary as of June 30, 2026 and December 31, 2025.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Investments
+in related parties
+The
+Company currently accounts for certain investments using a practical expedient to measure these investments that do not have a readily
+determinable fair value in accordance with Accounting Standards Codification (“ASC”) 321,
+Investments - Equity Securities
+;
+ASC 325,
+Investments – Other
+; ASC 810,
+Consolidation;
+and ASC 820,
+Fair Value Measurement
+. The investments
+are initially recognized at cost. Any income or loss from these investments is recognized on the Unaudited Condensed Consolidated Statements
+of Operations, net of operating expenses. The carrying value of the Company’s investments are assessed for indicators or impairment
+at each balance sheet date. Under this method of accounting, the investment is derecognized once the Company’s interest in the
+investment is sold or impaired. Upon sale, any proportionate gain or loss is recognized in the Unaudited Condensed Consolidated Statements
+of Operations as other income.
+See Note 8 – Investments in Related Parties and Note 15 –
+Related Party Transactions for further discussion.
+Property
+and Equipment
+Property
+and equipment are recorded at historical cost net of accumulated depreciation and amortization, write-downs and impairment losses. Property
+and equipment are recorded as construction in progress until they are placed in service and are depreciated or amortized once placed
+in service. Depreciation and amortization are calculated on a straight-line basis over the following periods:
+The
+estimated useful lives are:
+SCHEDULE
+OF PROPERTY AND EQUIPMENT ESTIMATED USEFUL LIVES
+Property
+and equipment costs directly associated with the acquisition, development and construction of operating venues and restaurants are capitalized.
+Expenditures for major improvements and betterments are capitalized while expenditures for maintenance and repairs are expensed as incurred.
+Upon retirement or disposal of assets, the accounts are relieved of cost and accumulated depreciation and amortization and the related
+gain or loss is reflected in earnings.
+Capitalization
+of Interest Costs of Real Estate Projects
+The
+Company acquires real estate for the construction and development of future venues. Interest costs incurred over the period in which
+the construction and development of the venue are substantially complete are recorded as part of the historical cost of the real estate
+asset and depreciated under the same method as property and equipment.
+Intangible
+Assets
+Intangible
+assets with a finite life are recorded at cost and are amortized on a straight-line basis over estimated useful lives. The estimated
+useful life and amortization method are reviewed at the end of each reporting period, with the effect of any changes in estimate being
+accounted for on a prospective basis. The Company currently has naming rights that are amortized on a straight-line basis over
+six years
+.
+The
+Company reviews the carrying values of its intangible assets for impairment whenever events or changes in circumstances indicate that
+the carrying amount of an asset or asset group might not be recoverable.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Impairment
+Assessment of Long-Lived Assets
+Long-lived
+assets are tested for recoverability whenever events or changes in circumstances indicate that their carrying amount may not be recoverable.
+An evaluation for impairment is performed at the lowest level of identifiable cash flows. An impairment loss is recognized in an amount
+equal to the excess of the carrying value over the estimated fair value.
+No
+impairment loss was recognized during the three and six months
+ended June 30, 2026 and 2025, respectively.
+Provision
+for Uncollectible Accounts
+See
+“Recently Issued and Adopted Accounting Pronouncements” herein for additional information on the adoption of ASU 2025-05
+and the practical expedient related to credit losses. The Company’s customers include attendees of concerts, shows and events (collectively
+“event centers”), restaurant diners and sponsors. The collection of payments for event centers and restaurants is handled
+at point of sale. Sponsors sign a contract that commits them to sponsorship payments over the contract term. Based on historical collection
+experience and other factors, the Company has determined that a provision for uncollectible accounts is not necessary. Circumstances
+that could affect this estimate include, but are not limited to, customer credit issues and general economic conditions. The Company
+writes off customer accounts when they are deemed to be uncollectible, which have historically been infrequent. The Company has elected
+the practical expedient to assume that current conditions as of the balance sheet date will remain unchanged for the remaining life of
+the receivables when estimating expected credit losses. For all periods presented, there were no uncollectible accounts.
+Revenue
+Recognition
+The
+Company recognizes revenue in accordance with Financial Accounting Standards Board (“FASB”) ASC 606,
+Revenue from
+Contracts with Customers
+. This ASC requires an entity to allocate the transaction price received from customers to each separate
+and distinct performance obligation and recognize revenue as these performance obligations are satisfied. The Company recognizes
+revenue from restaurant sales when food and beverage products are transferred to the customer. Revenue from a venue rental, concert
+or show is recognized when the event, concert or show occurs. Amounts collected in advance of the event are recorded as deferred
+revenue until the event occurs. Amounts collected from sponsorship agreements, which are not related to a single event, are
+classified as deferred revenue and recognized over the term of the agreements as the benefits are provided to the sponsors. As of
+June 30, 2026 and December 31, 2025, deferred revenue totaled $
+1,977,456
+and $
+1,542,564
+, respectively. As of June 30, 2025 and
+December 31, 2024, deferred revenue totaled $
+1,888,889
+and $
+1,528,159
+, respectively. During the three and six months ended June 30,
+2026, the Company recognized $
+351,787
+and $
+911,264
+, respectively, in revenue from its deferred revenue balance as of December 31,
+2025. During the three and six months ended June 30, 2025, the Company recognized $
+686,696
+and $
+1,405,418
+, respectively, in revenue
+from its deferred revenue balance as of December 31, 2024. There are no refunds or allowance for refunds in accordance with the
+Company’s reservation policies.
+Long-term
+Licensing Agreement
+The
+Company accounts for suite licensing agreements for NHC and its owners club memberships for the Regent Bank Amphitheater,
+The Sunset McKinney, and The Sunset Houston as long-term licensing liabilities. The suite licensing agreements for NHC grants the licensee
+with the exclusive access to a Luxe FireSuite over a 99-year lease term commencing on the date of the first ticketed event. The agreements
+require a one-time upfront fee of $
+200,000
+, which is amortized over 30 years, representing the estimated useful life of the amphitheater
+and the period over which the licensee is expected to utilize the suite. The amortization of these suite license fees started to be recognized
+in June 2025 when NHC fully opened its suites in Colorado Springs, Colorado. For the three and six months ended June 30, 2026, the Company
+recognized rental income totaling $
+55,833
+and $
+111,667
+, respectively, from prepaid licenses. For the three and six months ended June
+30, 2025, the Company recognized rental income totaling $
+18,611
+and $
+18,611
+, respectively, from prepaid licenses.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Each
+owners club membership for the Regent Bank Amphitheater, The Sunset McKinney, and The Sunset Houston entitles
+each member to perpetual access to two tickets to a Luxe FireSuite and requires a one-time upfront deposit, ranging from $
+25,000
+to $
+50,000
+under a financing option, or $
+100,000
+to $
+200,000
+for a fully prepaid membership. Members who elect the financing option are required
+to pay the membership fee in six installments, with the initial deposit of $
+25,000
+or $
+50,000
+due upon execution of the membership agreement,
+followed by five equal installments of the remaining balance due annually on or before 120 days prior to the first scheduled public event
+at each of the amphitheaters in each subsequent year from 2026 to 2030. The owners club membership fees are expected to begin amortization
+for the Regent Bank Amphitheater in Fall 2026, The Sunset McKinney in Q1 2027, and The Sunset Houston in Spring 2028, when these venues are currently
+projected to open, and continue in perpetuity for the lifetime of the amphitheater.
+Operator
+Agreements
+The
+Company contracted with a subsidiary of the Anschutz Entertainment Group, AEG Presents-Rocky Mountains, LLC (“AEG Presents”),
+a major music and entertainment events presenter, to operate Ford Amphitheater in Colorado Springs, Colorado, which opened in August
+2024. Within the Company’s Amphitheater Operations, its pre-sells naming rights to its amphitheater(s) by partnering with industry-leading
+brands under naming-rights agreements. The Company generates net profits that are split with AEG Presents through: (i) ticket sales,
+fees and rebates on tickets for concerts and events held at Ford Amphitheater; (ii) parking fees; (iii) venue rentals, which may occur
+for a variety of corporate and personal events; (iv) food and beverage sold at the shows and events; and (v) sponsorship sales, which
+allow brands to advertise at the Company’s venue by showcasing their names and logos on a variety of sponsorship inventory curated
+for the venue and at each event the Company promotes and hosts, all of which are offset by operating expenses, artist expenses, supplies,
+security, utilities, insurance, overhead, etc. within the Company’s net amphitheater revenue recognition from AEG Presents. In
+May 2026 the Company and certain of its wholly owned subsidiaries restructured the form of their relationships and arrangements with
+AEG Presents. In that restructuring the respective parties entered into the following arrangements: (i) a Venue Lease Agreement between
+SunsetAmp, acting in its capacity as the “Landlord,” and
+Notes Live Foundation, a non-profit
+organization operating under the trade name Venu Arts & Culture Foundation (the “Foundation”)
+and SunsetOps, acting
+in their capacities as the “Tenants” thereunder; and (ii) a Lease Agreement between the
+Foundation
+and SunsetOps, acting in their capacities as the “Landlords,” and AEG Presents, acting in its capacity as the “Tenant”
+thereunder (such agreements, collectively, the “New Amphitheater Agreements”). Although the New Amphitheater Agreements restructured
+the form of the contractual relationships among the parties thereto, they substantially preserved the economic and operational terms
+of prior agreements related to the operation of the Ford Amphitheater. As of June 30, 2026 and December 31, 2025, the Company had a net
+receivable of $
+217,334
+and
+$
+225,822
+,
+respectively. There was no allowance for credit losses as the Company believes any receivable balance is fully collectible or will be
+offset by operating expenses owed by the Company to AEG Presents.
+On
+January 1, 2025, the Company entered into a Multi-Event Incentive Agreement with Live Nation Worldwide, Inc. (“Live
+Nation”) in connection with the Regent Bank Amphitheater being developed in Broken Arrow, Oklahoma. The
+agreement provides incentives to Live Nation to book and promote live music concerts, comedy events and other mutually approved
+entertainment events at the Regent Bank Amphitheater. The incentive payment is based on the number of tickets sold at each event during each
+contract year, which is based on a tiered chart with varying incentive payments per ticket sold depending on the range of total
+tickets sold per contract year. A bonus payment will be paid to Live Nation for one dollar for each ticket sold at each event where
+the gross revenue of ticket sales for an event equal to or is greater than specified thresholds. The incentive and bonus payments
+payable to Live Nation will begin when the first event is held at the Regent Bank Amphitheater, which is anticipated to open in Fall
+2026.
+On
+December 10, 2025, the Company entered into an Operator Agreement with Live Nation to lease the premises on which The Sunset McKinney
+amphitheater is being developed in McKinney, Texas. The agreement provides for a revenue-sharing arrangement whereby Live Nation will
+pay the Company a percentage of the net profits generated from Live Nation’s events at The Sunset McKinney, after deducting applicable
+event-related expenses and other costs and expenses chargeable to the parties’ co-promotion of events. The agreement also names
+Live Nation as the exclusive third-party booking agency for all events held at The Sunset McKinney. The agreement may be terminated without
+penalty if certain conditions are not satisfied or may otherwise be terminated upon an uncured event of default.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+NNN
+FireSuite Liability
+The
+Company accounts for its NNN FireSuite transactions as financing arrangements rather than as sales of equity interests. Because the Company
+does not transfer control of the suites, no revenue or gain is recognized on the upfront cash proceeds. In substance, the buyer/lessor
+provides financing to the Company, with the Luxe FireSuite as collateral. Accordingly, at inception, the Company continues to carry the
+Luxe FireSuite assets on its Unaudited Condensed Consolidated Balance Sheets at their existing carrying amount and records the cash proceeds
+from the buyer/lessor as a long-term financing liability (reported as “NNN firesuite liability”). The Company does not derecognize
+any of its real estate or equipment as a result of these transactions, since they do not qualify as sales under the applicable accounting
+guidance. The monthly payments made by the Company under the leaseback are not recorded as rent expense. These payments represent interest
+and principal payments on the financing liability.
+Leases
+Operating
+and Finance Leases
+The
+Company accounts for its leases in accordance with ASC 842,
+Leases
+(“ASC 842”). Under this guidance, arrangements
+meeting the definition of a lease are classified as operating or financing leases and are recorded in the
+Unaudited
+Condensed Consolidated Balance Sheets as both a right-of-use asset and lease liability, calculated
+by discounting fixed lease payments over the lease term, including any renewal options that are reasonably certain to be exercised, at
+the rate implicit in the lease. Lease liabilities are increased by the principal amount due and reduced by payments each period, and
+the right-of-use asset is amortized over the lease term. For operating leases, interest on the lease liability and the amortization of
+the right-of-use asset result in straight-line rent expense over the lease term. In calculating the right-of-use asset and lease liability,
+the Company elects to combine lease and non-lease components as permitted under ASC 842. The Company excludes short-term leases having
+initial terms of 12 months or less as an accounting policy election and expenses payments on these short-term leases as they are made.
+Sale-Leaseback
+Arrangements
+For
+sale-leaseback arrangements, the Company evaluates whether the arrangement qualifies as a sale and leaseback under ASC 842. If the arrangement
+qualifies as a sale, then the Company derecognizes the asset, recognizes any resulting gain or loss on the sale, and accounts for the
+lease based on its classification under ASC 842. If the arrangement does not qualify as a sale, the Company evaluates whether the transaction
+should be accounted for as a financing arrangement. In such cases, the asset is not derecognized and, accordingly, no gain or loss is
+recognized on the transfer. The net consideration received is recorded as a financing liability, measured based on the relative fair
+value allocation of proceeds using the present value of the fixed payments over the financing term, including any renewal options that
+are reasonably certain to be exercised, at the rate implicit in the lease. The Company allocates each lease payment between interest
+expense and a reduction of the financing liability using an imputed interest rate. The Company does not recognize lease expense or a
+right-of-use asset during the financing period, because the arrangement is accounted for as a financing transaction rather than a lease.
+The underlying asset remains on the Company’s balance sheet and the Company continues to evaluate the asset for impairment throughout
+the term of the financing arrangement.
+Advertising
+Expenses
+Advertising
+costs are expensed as incurred and included in operating expenses in the accompanying Unaudited Condensed Consolidated Statements of
+Operations. Total advertising expenses were $
+3,635,988
+and $
+4,847,091
+for the
+three and six months ended June 30, 2026 and $
+1,526,311
+and $
+3,020,767
+for the three and six months ended June 30, 2025, respectively.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Pre-Opening
+Expenses
+Non-capital
+expenditures associated with opening a new restaurant, event center, or amphitheater are expensed as incurred. These costs consist of
+expenses incurred before the opening of a new location and include occupancy, labor, travel, training, food, beverage, marketing and
+other initial supplies and expenses. These costs are included in general and administrative expenses reported in our Unaudited Condensed
+Consolidated Statements of Operations.
+Debt
+Issuance Costs
+Debt
+issuance costs incurred in connection with the issuance of long-term debt are recorded as reductions of long-term debt and are amortized
+over the term of the related debt. Amortization of debt issuance costs were $
+281,540
+and $
+383,008
+for the three and six months ended
+June 30, 2026 and $
+1,248,449
+and $
+1,890,061
+for the three and six months ended June 30, 2025, respectively. These costs are included
+in interest expense in the accompanying Unaudited Condensed Consolidated Statements of Operations.
+Equity
+Compensation
+The
+Company recognizes equity compensation expense based on the fair value of the warrants or stock options at the time of the grant or issuance.
+Share-based compensation includes warrants and stock options issued to the Company’s employees. These may vest immediately, over a specified period, or upon the achievement of certain market performance conditions. The exercise price of a warrant or stock option is the fair value of the Company’s stock price on the
+grant date.
+Equity
+Issuance Costs
+Equity
+issuance costs represent amounts paid for legal, consulting, and other offering expenses in conjunction with the future raising of additional
+capital to be performed within one year. These costs are netted against additional paid-in capital as a cost of the stock issuance upon
+closing of the respective stock placement.
+Stock
+Options and Warrants
+The
+Company accounts for stock options and warrants as either equity-classified or liability-classified instruments based on an assessment
+of the stock options’ and warrant’s specific terms and applicable authoritative guidance. The assessment considers whether
+the stock options and warrants are freestanding financial instruments, meet the definition of a liability, and whether the warrants meet
+all the requirements for equity classification, including whether the stock options and warrants are indexed to the Company’s own
+stock and whether the stock options and warrant holders could potentially require “net cash settlement” in a circumstance
+outside of the Company’s control, among other conditions for equity classification. This assessment, which requires the use of
+professional judgment, is conducted at the time of the stock option and warrant issuance and as of each subsequent balance sheet date
+while the warrants are outstanding. For issued or modified stock options and warrants that meet all of the criteria for equity classification,
+the stock options and warrants are required to be recorded as a component of stockholders’ equity at the time of issuance.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Equity
+Awards with Market Performance Conditions
+The
+fair value and derived service period of performance-based awards granted with market performance conditions are estimated on the grant
+date using a Monte Carlo simulation model. A Monte Carlo simulation model requires inputs such as the risk-free interest rate, expected
+award term, and expected share price volatility. These inputs, which are subjective and generally require significant judgment, are unique
+to each award based on the best available information at the valuation date. For such awards, equity-based compensation is recognized
+straight-line over the derived service period, which is the median period over which each individual market performance milestone is
+achieved. Equity-based compensation expense will continue to be recognized over the expected achievement period for the market performance
+milestone as the service condition continues to be satisfied, unless the market performance milestone is achieved earlier than its expected
+achievement period, in which a cumulative expense adjustment would be recognized for the remaining portion of unrecognized equity-based
+compensation.
+Sale
+of Subsidiary Class B and Class C Units
+The
+Company accounts for the sale of Class B and Class C non-voting units through its subsidiary companies as permanent equity. Holders of
+Class B and Class C non-voting units are granted exclusive access to designated Luxe FireSuites at the Sunset Amphitheaters located in
+Broken Arrow, El Paso, McKinney, and Houston. Purchasers are required to pay either a cash deposit upfront or make a cash deposit under
+a 20-year financing arrangement.
+Income
+Taxes
+The
+Company is subject to federal and state income taxes. A proportional share of the Company’s subsidiaries’ provisions is included
+in the consolidated financial statements. Deferred income tax assets and liabilities are computed for differences between the asset and
+liability method and financial statement amounts that will result in taxable or deductible amounts in the future. The Company computes
+deferred balances based on enacted tax laws and applicable rates for the periods in which the differences are expected to affect taxable
+income.
+A
+valuation allowance is recognized for deferred tax assets if it is more likely than not that some portion or all of the net deferred
+tax assets will not be realized. In making such a determination, all available positive and negative evidence, including future
+reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies and results of recent
+operations is considered. If the Company determines it will be able to realize the deferred tax assets for which a valuation
+allowance had been recorded, then it will adjust the deferred tax asset valuation allowance, which would reduce the provision for
+income taxes. The Company evaluates the tax positions taken on income tax returns that remain open and positions expected to be
+taken on the current year tax returns to identify uncertain tax positions.
+Unrecognized
+tax benefits on uncertain tax positions are recorded on the basis of a two-step process in which (1) an assessment is made as to whether
+it is more likely than not that the tax positions will be sustained on the basis of the technical merits of the position and (2) for
+those tax positions that meet the more-likely-than-not recognition threshold, the largest amount of tax benefit that is more than 50
+percent likely to be realized is recognized. Interest and penalties related to unrecognized tax benefits are recorded in income tax benefit.
+The
+Company is a C corporation, while the Company’s subsidiaries (except for Notes CS I, DST) are limited liability companies (“LLCs”)
+that have elected to be taxed as partnerships. As LLCs, management believes that these subsidiaries are not subject to income taxes,
+and such taxes are the responsibility of the respective members. The subsidiary LLCs are still in place, with the parent Company filing
+as a corporation.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Non-Controlling
+Interest and Variable Interest Entities
+The
+non-controlling interest (“NCI”) represents capital contributions and distributions, income and loss attributable to the
+owners of less than wholly owned consolidated entities and are reported in equity. NCIs are evaluated by the Company and are shown as
+permanent equity. Net income (loss) attributable to NCIs reflects the portion of the net income (loss) of consolidated entities applicable
+to the NCI stockholders in the accompanying Unaudited Condensed Consolidated Statements of Operations. The net income (loss) attributable
+to NCIs is classified in the Unaudited Condensed Consolidated Statements of Operations as part of consolidated net income (loss) and
+deducted from total consolidated net income (loss) to arrive at the consolidated net income (loss) attributable to the Company.
+The
+Company has evaluated its investments in its consolidated entities in order to determine if they qualify as variable interest entities
+(“VIEs”).
+The
+Company is the entity that holds the majority, and only, voting interests and is also the primary beneficiary of the VIEs.
+The
+Company monitors these investments and, to the extent it has determined that it owns a majority of the controlling class of securities
+of a particular entity, analyzes the entity for potential consolidation. The Company will continually analyze investments, including
+when there is a reconsideration event, to determine whether such investments are VIEs and whether such VIE should be consolidated. These
+analyses require considerable judgment in determining the primary beneficiary of a VIE and could result in the consolidation of an entity
+that would otherwise not have been consolidated or the non-consolidation of an entity that would have otherwise been consolidated.
+The
+Company accounts for the change in its ownership interest while it retains its
+100
+% controlling financial interest, as the Company owns
+100
+% of the voting membership interest, in all of its majority-owned subsidiaries and VIEs as equity transactions. As such, the Company
+is the entity that holds the majority, and only, voting interests and is also the primary beneficiary of the VIEs. The VIEs meet or will
+meet the definition of a business once open for operations and each VIE’s assets can be used for purposes other than the settlement
+of the VIE’s obligations. The Company is the holder of controlling variable interests in its VIEs and is also the holder as the
+primary beneficiary of all of its VIEs. The VIEs exist for the Company’s operations and purposes. The Company is the sole manager
+of the legal entity and operating manager of the VIEs. The Company would provide support to the VIEs, including events that may expose
+the Company to the VIEs reporting losses. The Company directly controls each VIE’s financial position in terms of operations, construction,
+acquisition of real estate, financial performance and directs its cash flows. As the VIEs issue voting equity interests to the Company,
+the Company holds 100% voting interest and is also the primary beneficiary of each VIE.
+The
+carrying value of the NCI should be adjusted to reflect the change in the Company’s ownership interest in the subsidiary, and differences
+between the fair value of the consideration received and the amount by which the NCI is adjusted should be recognized in equity attributable
+to the Company. This may be shown as NCI and as additional paid in capital to the Company when combined agree to the subsidiary issuance
+of shares as shown in the Unaudited Condensed Consolidated Statements of Change in Stockholders’ Equity. If a change in ownership
+of a consolidated subsidiary results in a loss of control or deconsolidation, any retained ownership interests are remeasured with the
+gain or loss reported to net earnings. These may be majority-owned subsidiaries or VIEs that the Company has
+100
+% voting control of.
+During
+2025, the Company bought
+5,100,000
+membership units of SHC. This purchase transaction did not result in a change in control of SHC. In
+June 2026, the Company, through the Trust, redeemed
+100
+% of the beneficial interests in the Trust, and the Trust ceased to have any third-party interest holders. This transaction did not result in a change in control of the Trust.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+The
+following table shows the classification and carrying value of assets and liabilities of consolidated VIEs as of June 30, 2026:
+SCHEDULE
+OF CARRYING VALUE OF ASSETS AND LIABILITIES OF CONSOLIDATED VARIABLE INTEREST ENTITIES
+The
+following table shows the classification and carrying value of assets and liabilities of consolidated VIEs as of December 31, 2025:
+The
+following table is a summary of the Company’s non-controlling interests for the three and six months ended June 30, 2026 and 2025:
+SCHEDULE
+OF NON CONTROLLING INTERESTS
+Revision
+of Non-Controlling Interest Presentation in Previously Issued Financial Statements
+The
+Company revised the presentation of subsidiary issuance of shares, net of Venu contributions, to properly reflect the allocation between
+NCI and additional paid-in capital within consolidated equity. As a result, NCI increased and additional paid-in capital decreased by
+$
+20,864,007
+in the Consolidated Statements of Changes in Stockholders’ Equity for the year ended December 31,
+2025. This revision had no impact on total consolidated equity.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Segment
+Reporting
+The
+Company considers our restaurant and event center operations as similar, in close proximity, and have aggregated them into a single reportable
+segment. Revenue from customers is derived principally from food and beverage services with a portion being served in conjunction with
+live entertainment. Our chief operating decision maker (the “CODM”) is the Chief Executive Officer. The CODM makes operating
+performance assessment and resource allocation decisions on a consolidated basis. The CODM does not receive discrete financial information
+about asset allocation, expense allocation or profitability by product or geography.
+Recently
+Issued and Adopted Accounting Pronouncements
+On
+December 14, 2023, the FASB issued ASU No. 2023-09,
+Improvements to Income Tax Disclosures
+(“ASU 2023-09”). ASU 2023-09
+amends ASC 740,
+Income Taxes
+to expand income tax disclosures and requires that the Company disclose (i) the income tax rate reconciliation
+using both percentages and reporting currency amounts; (ii) specific categories within the income tax rate reconciliation; (iii) additional
+information for reconciling items that meet a quantitative threshold; (iv) the composition of state and local income taxes by jurisdiction;
+and (v) the amount of income taxes paid disaggregated by jurisdiction. The Company has elected to adopt this guidance prospectively beginning
+January 1, 2025.
+On
+November 4, 2024, the FASB issued ASU No. 2024-03,
+Expense Disaggregation Disclosures
+(“ASU 2024-03”). ASU 2024-03
+amends ASC 220,
+Comprehensive Income
+to expand income statement expense disclosures and require disclosure in the notes to the
+financial statements of specified information about certain costs and expenses. ASU 2024-03 is required to be adopted for fiscal years
+commencing after December 15, 2026, with early adoption permitted. The Company is currently evaluating the impact of adopting the standard
+on its consolidated financial statements.
+In
+July 2025, the FASB issued ASU 2025-05,
+Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses for
+Accounts Receivable and Contract Assets
+(“ASU 2025-05”), which allows the Company to elect a practical expedient for
+measuring expected credit losses on current accounts receivable and current contract assets arising from transactions accounted for as
+revenues from contracts with customers. This expedient allows the Company to assume that current economic conditions as of the balance
+sheet date do not change for the remaining life of the asset. ASU 2025-05 is effective for fiscal years beginning after December 15,
+2025 and interim periods within fiscal years beginning after December 15, 2026. As permitted, the Company has elected to early adopt
+the practical expedient as of December 31, 2025 and applied its provisions prospectively to the provision for uncollectable accounts.
+The adoption of ASU 2025-05 did not have a material impact on the consolidated results of operations, cash flows or financial condition
+of the Company.
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+In
+December 2025, the FASB issued ASU No. 2025-10,
+Government Grants (Topic 832): Accounting for Government Grants Received by Business
+Entities
+(“ASU No. 2025-10”), which establishes authoritative guidance for accounting for government grants received
+by business entities. Under the new guidance, a government grant is not recognized until it is probable that the Company will comply
+with the conditions attached to the grant and the grant will be received, and recognition guidance is met. A grant related to an asset
+is recognized on the balance sheet as the Company incurs the related costs for which the grant is intended to compensate. ASU No. 2025-10
+is effective for annual reporting periods beginning after December 15, 2028, with early adoption permitted. Adoption of this ASU can
+be applied on a modified prospective approach, a modified retrospective approach, or a retrospective approach. The Company is currently
+evaluating the impact of adopting the standard on its consolidated financial statements.
+Reclassifications
+for Presentation
+Certain
+prior year amounts have been reclassified to conform to the current year presentation. In the Unaudited Condensed Consolidated Statements
+of Cash Flows included in the 2025 Annual Report, the Company reclassified $
+100,000
+of equity-based compensation to equity issued for
+services. These reclassifications will be applied consistently in the Company’s upcoming quarterly and annual filings.
+NOTE
+3 –
+PROPERTY AND EQUIPMENT
+Property
+and equipment, net, were as follows:
+SCHEDULE
+OF PROPERTY AND EQUIPMENT
+Depreciation
+and amortization expenses relating to property and equipment for the three and six months ended June 30, 2026 were $
+2,384,051
+and $
+4,743,163
+,
+respectively. Depreciation and amortization expenses relating to property and equipment for the three and six months ended June 30, 2025
+were $
+1,357,281
+and $
+2,715,965
+, respectively.
+NOTE
+4 -
+INTANGIBLES
+Intangible
+assets subject to amortization consist of the following:
+SCHEDULE
+OF INTANGIBLE ASSET
+NOTE
+4 - INTANGIBLES (Continued)
+The
+intangible naming rights asset was put into use in 2023. Amortization expense relating to the intangible assets for the three and six
+months ended June 30, 2026 were $
+16,680
+and $
+33,360
+, respectively. Amortization expense relating to the intangible assets for the three
+and six months ended June 30, 2025 were $
+16,680
+and $
+33,360
+, respectively. The estimated amortization expense for the twelve months ended
+June 30, 2027 and thereafter is as follows:
+SCHEDULE
+OF ESTIMATED AMORTIZATION EXPENSE
+NOTE
+5 –
+LEASES
+Operating
+Leases
+The
+Company leases the properties used for some of its restaurants, venues, office space and parking spaces.
+The
+Company leases its office space from an unrelated party. The lease term is until
+November
+30, 2029
+and escalates in base rent by
+1.3
+%
+each year. Additionally, the Company previously leased an executive apartment from an unrelated party, which lease was terminated
+early in January 2026.
+On
+June 24, 2026, HIA entered into a Lease Agreement and Assignment and Assumption Agreement (the “Assignment Agreement”),
+pursuant to which HIA reassigned its lease interests in and leases with BBSTCS and BBP (the “Tenants”) to BBRP DST (the
+“DST Landlord”), a wholly owned subsidiary of Venu. The Assignment Agreement has no impact on the Company’s
+unaudited condensed consolidated financial statements. It is expected that third parties will purchase and be issued beneficial
+interests in DST Landlord. Beginning July 1, 2026, and subject to
+100
+%
+of the
+beneficial
+interests in BBRP DST being owned by beneficial holders, annual base rent payable by BBP for the BBP CO concert and event venue is
+initially $693,000 and escalates by 2.0% annually beginning July 1, 2027, and annual base rent payable by BBSTCS for the BBST CO
+restaurant is initially $1,213,308 and escalates by 2.0% annually beginning July 1, 2027.
+As of June 30, 2026, no beneficial
+interests in BBRP DST had been sold. Any rental income and expense recognized between the DST Landlord and the Tenants will be
+considered intercompany transactions and eliminated upon consolidation.
+Sale-Leaseback
+Arrangements
+On
+November 5, 2025, the Company, through its wholly owned subsidiary NLRE, closed on a sale-leaseback arrangement, pursuant to which it
+sold the 5.5 acres of land owned by PPP used for parking for Ford Amphitheater (such land, together with improvements thereon, the “Property”)
+to a related party (the “Landlord”) and concurrently entered into a ground lease agreement with the Landlord to lease the
+Property for a
+20
+-year term under an NNN lease structure with an option to re-purchase the Property within the first three years of the
+closing date of the sale at a fixed price, which would return the asset to the Company’s balance sheet. The Landlord is wholly
+owned by a significant shareholder of the Company. Annual base rent is initially $
+1,050,000
+and escalates by
+2.5
+% each year beginning
+on November 5, 2026. This transaction qualifies as a sale under ASC 842 and the lease is accounted based on the guidance for operating
+leases.
+On
+June 5, 2026, the Company, through the Trust, completed a sale-leaseback arrangement, pursuant to which it transferred the DST
+Property to a related party of the Company (the “DST Buyer” or “DST Landlord”) and concurrently entered into
+a ground lease agreement with the DST Landlord to lease the DST Property for a
+25
+-year
+term under an NNN lease structure with an option to re-purchase the DST Property at any time during the 20-year period following
+the closing date at a fixed price. The DST Landlord is co-owned by a significant shareholder of the Company and the Company’s
+Chairman and CEO.
+Annual
+base rent is initially $4,224,500 and escalates by 10% each year beginning on June 5, 2027.
+This transaction does not qualify
+as a sale under ASC 842 and the lease is accounted for as a financing arrangement that is presented in the Unaudited Condensed
+Consolidated Balance Sheets as a lease financing liability.
+NOTE
+5 –LEASES (Continued)
+The
+transaction provided $
+49,700,000
+of consideration, of which $
+41,718,113
+was allocated to the financing liability and $
+7,981,887
+was allocated
+to warrants issued in the transaction (refer to Note 10 – Equity for further details). The $
+7,981,887
+allocated to warrants represents
+a discount on the financing liability that is recognized as interest expense over the financing term under the effective-interest method.
+Interest expense related to the financing arrangement was $
+341,243
+and $
+341,243
+for the three and six months ended June 30, 2026, respectively.
+No
+interest expense was recognized for the three and six months ended June 30, 2025.
+Total
+rent expense for operating leases including short-term leases and variable costs was $
+513,855
+and $
+1,023,119
+for the three and six months
+ended June 30, 2026, respectively. Total rent expense for operating leases including short-term leases and variable costs was $
+468,252
+and $
+881,472
+for the three and six months ended June 30, 2025, respectively. Total cash paid for rent expense for operating leases was
+$
+365,656
+and $
+731,897
+for the three and six months ended June 30, 2026, respectively. Total cash paid for rent expense for operating
+leases was $
+114,275
+and $
+234,873
+for the three and six months ended June 30, 2025, respectively.
+The
+following table shows balance sheet information related to the operating leases:
+SCHEDULE
+OF BALANCE SHEET INFORMATION RELATED TO LEASES
+The
+future minimum lease payments of existing operating lease liabilities are as follows:
+SCHEDULE
+OF FUTURE MINIMUM LEASE PAYMENTS OF OPERATING LEASE LIABILITIES
+SCHEDULE
+OF SUPPLEMENTAL INFORMATION OF OPERATING LEASES
+NOTE
+5 –LEASES (Continued)
+The
+future minimum lease payments of lease financing liabilities are as follows:
+SCHEDULE
+OF FUTURE MINIMUM LEASE PAYMENTS OF FINANCING LEASE LIABILITIES
+SCHEDULE
+OF SUPPLEMENTAL INFORMATION OF FINANCING LEASES
+NOTE
+6 –
+PROMISSORY NOTES RECEIVABLE
+Note
+Receivable – Related Party
+In
+connection with the sale-leaseback arrangement of the DST Property on June 5, 2026 (as described in Note 5 – Leases), the $
+49,700,000
+consideration was funded through a combination of a $
+29,820,000
+cash payment at closing, financed by the proceeds of a bank loan with
+the DST Buyer and a $
+19,880,000
+promissory note issued by the DST Buyer in favor of the Trust (the “DST Note”). The DST Note
+is secured by a purchase money deed of trust on the DST Property, bears interest at
+4.87
+% per annum, and requires annual interest-only
+payments beginning June 1, 2027, with the outstanding principal balance due on June 1, 2046. As of June 30, 2026, the DST Note had an
+outstanding balance of $
+19,880,000
+. During the three and six months ended June 30, 2026, the Trust recognized interest income of $
+80,680
+and $
+80,680
+, respectively.
+NNN
+FireSuite Promissory Notes Receivable
+In
+April 2026, the Company initiated an arrangement to sell the exclusive use rights to Luxe FireSuites at the Sunset Amphitheaters
+in Broken Arrow, Oklahoma and El Paso, Houston, and McKinney, Texas to third parties and concurrently lease them back under a NNN lease
+structure. Under these agreements, the third-party pays an upfront purchase price or a cash deposit under a
+financing option over 20
+years for a Luxe FireSuite and the Company immediately leases the suite for its own use for 15 years.
+Under
+the financing option, the Company recognizes a promissory note receivable for the amount financed. The promissory note receivable bears
+interest at
+11.0
+% per annum beginning on the effective date of the Luxe FireSuite NNN lease agreement (the “Effective Date”).
+Monthly principal and interest payments are due on the first day of each calendar month following the Effective Date and continue until
+the outstanding principal balance and accrued interest are fully repaid. Payments are applied first to accrued and unpaid interest and
+thereafter to outstanding principal. The promissory note receivable matures on the twentieth anniversary of the date of the promissory
+note receivable agreement. As of June 30, 2026, the Company had $
+7,557,354
+of outstanding promissory notes receivable related to these
+arrangements. During the three and six months ended June 30, 2026, the Company recognized $
+29,570
+and $
+29,570
+of interest income, respectively,
+related to these promissory note receivables.
+NOTE
+6 – PROMISSORY NOTES RECEIVABLE (Continued)
+The
+Company has not recorded an allowance for credit losses as the buyer/lessor’s payment obligations under the promissory notes are
+expected to be settled through reductions in their monthly distributions or, if the buyer/lessor exercises the put option, from the Lessor
+Repurchase Price payable under the NNN lease agreements, as described in Note 16 – NNN FireSuite Liability.
+NOTE
+7 –
+INVESTMENTS
+On
+January 13, 2025, the Company entered into a Stock Purchase Agreement (the “SPA”) pursuant to which it purchased shares of
+Series A Preferred Stock of FL101, Inc. d/b/a EIGHT Brewing (“FL101”) in consideration for a cash investment of $
+1,999,999
+.
+FL101 is a food and beverage company that creates curated lifestyle brands, including the EIGHT beer brand. Pursuant to the SPA, the
+Company was issued
+1,487,099
+shares of FL101’s preferred stock (the “Preferred Stock”), designated as “Series
+A Preferred Stock.” The Company was a minority investor in this entity. On April 17, 2026, the Company entered into a Stock Transfer
+Agreement (the “Transfer Agreement”) with the Foundation. Pursuant to the Transfer Agreement, the Company donated all of its shares of Series A Preferred Stock
+of FL101 to the Foundation. This investment was carried at cost and reviewed at each balance sheet date
+for impairment. No impairment was recorded during the period from January 1, 2026 through April 27, 2026 and the three and six months
+ended June 30, 2025.
+NOTE
+8 –
+INVESTMENTS IN RELATED PARTIES
+The
+Company has non-controlling interest investments in related parties. Accordingly, the Company utilizes the guidance stated in ASC 323,
+Investments – Equity Method and Joint Ventures
+to account for applicable transactions. These investments lack readily determinable
+fair values. Consequently, these investments are accounted for under the practical expedient at cost minus impairment plus any changes
+in observable price changes from an orderly transaction of similar investments. An adjustment to the recognized value of the investment
+is not made if there are no identified events or changes in circumstances that may have a significant adverse effect on the fair value.
+Any income or loss from these investments is recognized in the Unaudited Condensed Consolidated Statements of Operations, net of operating
+expenses. These investments are reviewed at each balance sheet date for impairment.
+The
+activity related to these investments for the six months ended June 30, 2026 and the year ended December 31, 2025 is as follows:
+SCHEDULE
+OF INVESTMENT IN RELATED PARTIES
+NOTE
+9 –
+DEBT
+SBA
+Economic Injury Disaster Loan
+On
+May 4, 2020, the Company executed the standard loan documents required for securing a loan (the “EIDL Loan”) from the SBA
+under its Economic Injury Disaster Loan (“EIDL”) assistance program in light of the impact of the COVID-19 pandemic on the
+Company’s business. Pursuant to the loan agreement, the principal amount of the EIDL Loan is $
+500,000
+, with proceeds used
+for working capital purposes. Interest accrues at the rate of
+3.75
+% per annum and monthly payments of interest only in the amount of $
+2,437
+commenced in October 2022. The EIDL
+Loan matures
+30
+years from the date of the note agreement, at which time all remaining unpaid principal and interest are due. The Company’s
+Chairman and CEO, personally guarantees this loan agreement. As of June 30, 2026 and December 31, 2025, the principal balance of $
+500,000
+remains outstanding.
+Bank
+Loans and Promissory Notes
+On
+April 1, 2022, the Company purchased the majority of the interests of HIA. In this transaction, the Company became a guarantor of
+HIA’s mortgage on the properties used in BBST and BBP operations. The mortgage accrues interest at
+5.5
+% and matures on
+July 10,
+2031
+. The outstanding balance as of June 30, 2026 and December 31, 2025 was $
+2,973,656
+and $
+3,064,903
+, respectively. This mortgage is
+collateralized by the BBSTCO and BBP land and buildings.
+On
+May 26, 2022, GAHIA took on a mortgage for the properties used in the BBSTGA and BBPGA operations, with the Company as a guarantor to
+the mortgage. GAHIA began to draw on this mortgage in early 2023 with the final mortgage amount in place in June 2023. The mortgage accrues
+interest at
+3.95
+% and matures on
+May 26, 2043
+. The outstanding balance as of June 30, 2026 and December 31, 2025 was $
+3,957,336
+and $
+4,037,281
+,
+respectively. This mortgage is collateralized by the BBSTGA and BBPGA land and buildings. This mortgage is personally guaranteed by the
+Company’s Chairman and CEO.
+In
+April 2024, the Company executed a term sheet with the City of El Paso, Texas, and then later in June 2024 and July 2024 entered
+into a Chapter 380 Economic Development Program Agreement (the “Chapter 380 Agreement”), a Purchase and Sale Agreement, and
+related transaction documents (collectively, the “Definitive El Paso Agreements”). On May 13, 2025, the Company (through
+a wholly owned subsidiary) acquired an approximately 20-acre tract of land where it plans to develop The Sunset Amphitheater in El Paso,
+Texas pursuant to the Definitive El Paso Agreements. Under the Definitive El Paso Agreements the City of El Paso provided various incentives
+to the Company related to the development of The Sunset El Paso including contributing cash towards Venu’s development costs by
+issuing an
+8
+eight-year, no-interest, forgivable loan to Venu (the “El Paso Loan”) in the principal amount of $
+8,000,000
+funded by the Texas Economic Development Fund.
+If the Company completes construction of The Sunset El Paso within 36 months from the
+date Venu receives all government authorizations required to develop and construct the amphitheater (such process, “Entitlement”)
+and hosts a minimum of 25 events per year at The Sunset El Paso in years 3-5 of the rebate period, the El Paso Loan will be forgiven.
+On
+January 14, 2025 (the “Closing Date”), the Company closed on its purchase of an approximately 46-acre tract of land (the
+“McKinney Tract”) where it is developing the Sunset Amphitheater in McKinney, Texas, pursuant to the Chapter 380, Grant, and
+Development Agreement (the “McKinney Agreement”) entered into with the City of McKinney, Texas,
+the McKinney Economic Development Corporation (“MEDC”), and the McKinney Community Development Corporation on April 16, 2024,
+which was amended on October 15, 2024 and December 3, 2024. MEDC agreed to sell the McKinney Tract to the Company for an aggregate purchase
+price of $
+35,000,000
+(the “McKinney Purchase Price”), which was paid on the Closing Date in the form of $
+10,000,000
+in cash
+and $
+25,000,000
+represented by a secured promissory note to MEDC (the “McKinney Note”), which bears no interest, is subject
+to prepayment without penalty, is secured by a Deed of Trust conveying a first-priority lien on the McKinney Tract, and is personally
+guaranteed by the Company’s Chairman and CEO, and a related-party shareholder of the Company (the “McKinney Guaranty”).
+NOTE
+9 – DEBT (Continued)
+If
+the Company receives a temporary certificate of occupancy or a certificate of occupancy by certain deadlines set forth in the McKinney
+Agreement, then MEDC will reimburse the Company for the McKinney Purchase Price, and the Company and the guarantors will be released
+from their respective obligations under the McKinney Note, the McKinney Deed of Trust, and the McKinney Guaranty.
+On
+May 27, 2025, for the purpose of funding the completion of a development adjacent to the Ford Amphitheater, the Company entered into
+a Credit Agreement with Pueblo Bank & Trust, as lender (the “Lender”) for a draw-down term loan (the
+“Construction Loan”). The Construction Loan accrues interest at
+8.50
+%
+and has a term of
+seventy
+months
+, maturing on
+March
+27, 2031
+(the “Maturity Date”). Beginning on the closing date, and continuing until no later than May 27, 2026
+(the “Draw Period”), assuming that there has not been an “Event of Default” (as defined in the Credit
+Agreement) and that the Company has complied with all requirements under the documents and agreements governing the Construction
+Loan, the Company may from time-to-time request advances under the Construction Loan not to exceed an aggregate amount of $
+6,000,000
+. Subject to the terms and conditions of the Credit Agreement, on the Conversion Date (as defined) the draw down term loan
+will convert to an amortizing loan. The term of the amortizing loan is
+59
+months from the Conversion Date and the amortization loan will bear interest at the Note Rate per annum, defined as the
+WSJ Prime Rate plus 25 basis points determined on the Conversion Date. Monthly payments of principal and interest are due under the
+amortizing loan and will be calculated by amortizing the principal amount of the amortizing loan over 240 months. Obligations under
+the Construction Loan are secured under, and by, a deed of trust, various assets of the Company pledged pursuant to a security
+agreement, together with an assignment of leases and rents, and personal guaranties extended by certain Company affiliates. The
+outstanding balance as of June 30, 2026 and December 31, 2025 was $
+5,936,794
+and $
+5,937,119
+,
+respectively. This mortgage is collateralized by the SHC land and buildings. This mortgage is personally guaranteed by the
+Company’s Chairman and CEO.
+Artist
+280 purchased an aircraft to support the Company’s current and prospective corporate growth initiatives and development
+projects around the country. Effective September 26, 2025, Artist 280 borrowed $
+12,000,000
+million (the “Loan”) from PNC Bank, National Association (the “Lender”). The Loan is evidenced by a
+promissory note (the “Note”) delivered by Artist 280 in favor of the Lender. The term of the Loan is
+60
+months from October 1, 2025, and the Loan bears interest at
+6.01
+%
+per annum. Monthly payments of principal and interest are due under the Note and will be calculated by amortizing the principal
+amount of the Note over 240 months. The outstanding balance as of June 30, 2026 and December 31, 2025 was $
+11,771,755
+and $
+11,928,956
+,
+respectively. The Loan is personally guaranteed by the Company’s Chairman and CEO, up to $
+4,500,000
+.
+Convertible
+Debt
+The
+Company issued a $
+6,000,000
+principal amount convertible promissory note on February 28, 2025, with a maturity date three years from
+the date of issuance. The interest rate is
+12
+% per annum and paid quarterly in cash or shares of the Company’s Common Stock at
+the conversion price.
+The conversion price is defined as 100% of the average daily closing sale price of the Company’s Common Stock
+during the 10 consecutive trading days immediately prior to the applicable payment date.
+The lender was also issued a warrant that is
+exercisable to acquire
+300,000
+shares of Common Stock at an exercise price of $
+12.50
+per share.
+On
+April 4, 2025, the Company issued two convertible promissory notes having an aggregate principal amount of $
+6,000,000
+, with a maturity date
+three years
+from the date of issuance. The interest rate is
+12
+% per annum and
+paid quarterly in cash or shares of the Company’s Common Stock at the conversion price.
+The conversion price is defined as 100%
+of the average daily closing sale price of the Company’s Common Stock during the 10 consecutive trading days immediately prior
+to the applicable payment date.
+The lenders were issued warrants that, in the aggregate, are exercisable to acquire
+300,000
+shares of
+Common Stock at an exercise price of $
+12.50
+per share
+NOTE
+9 – DEBT (Continued)
+On
+May 6, 2025, the Company issued two convertible promissory notes having an aggregate principal amount of $
+6,000,000
+, with a maturity date
+three years
+from the date of issuance. The interest rate is
+12
+% per annum and
+paid quarterly in cash or shares of the Company’s Common Stock at the conversion price.
+The conversion price is defined as 100%
+of the average daily closing sale price of the Company’s Common Stock during the 10 consecutive trading days immediately prior
+to the applicable payment date.
+The lenders were issued warrants that, in the aggregate, are exercisable to acquire
+300,000
+shares of Common Stock
+at an exercise price of $
+12.50
+per share.
+On
+June 22, 2025, the Company issued
+1,542,367
+shares of Common Stock in full satisfaction of $
+15,000,000
+principal and $
+423,667
+accrued interest, representing a conversion price of $
+10
+per share of Common Stock, due under certain of the convertible promissory notes identified above.
+On
+July 22, 2025, the Company issued
+103,667
+shares of Common Stock upon conversion of a secured promissory note to satisfy
+50
+% of the outstanding
+obligations owed thereunder.
+On
+February 3, 2026, the Company entered into an Assignment of Purchase and Sale Agreement with Hall at Centennial, LLC, a subsidiary of
+the Company (“Hall at Centennial”), and Old Mill, LLC (“Old Mill”), which is partially owned by a Board member
+of the Company, pursuant to which the Company assigned to Hall at Centennial its right, title, and interest in a Purchase and Sale Agreement
+that it had entered into with Old Mill in April 2025, which contemplated the Company’s acquisition from Old Mill of certain real
+property in Centennial, Colorado (the “Centennial Property”). Following such assignment, on February 3, 2026, Hall at Centennial
+closed on the purchase of the Centennial Property from Old Mill pursuant to the Purchase and Sale Agreement. The purchase price of approximately
+$
+12,612,000
+for the Centennial Property was paid through a combination of cash and a promissory note in the principal amount of approximately
+$
+7,758,000
+(the “Old Mill Note”). The Old Mill Note bears interest at
+4.5
+% per annum and matures February 1, 2027. Interest
+accrues during the first six months and becomes due and payable on August 1, 2026, in cash or shares of Common Stock. See Note 17 –
+Subsequent Events for payment details.
+In
+connection with the closing of the acquisition of the Centennial Property, Hall at Centennial also entered into a bridge loan (the “Loan”)
+evidenced by a promissory note in the principal amount of $
+4,350,000
+,
+which bore interest at
+7.75
+%
+per annum and was to mature in early May 2026. The proceeds of the Loan were used to satisfy the cash closing delivery obligation
+for the acquisition of the Centennial Property (as well as to pay off Old Mill’s existing loan secured by the Centennial
+Property and certain outstanding taxes). The Loan was repaid in full in March 2026.
+Total
+debt consists of the following:
+SCHEDULE
+OF DEBT
+NOTE
+9 – DEBT (Continued)
+Following
+are the future maturities of total debt for the twelve months ending June 30,
+SCHEDULE
+OF FUTURE MATURITIES OF LONG TERM DEBT
+NOTE
+10 –
+EQUITY
+Stockholders’
+Equity
+Preferred
+Stock
+On
+June 16, 2025, the Company issued
+675
+shares of Series B
+4.0
+% Cumulative Redeemable Convertible Preferred Stock (“Series B Preferred
+Stock”) to Aramark Sports and Entertainment Services, LLC (“Aramark”), with an aggregate purchase amount of $
+10.125
+million. Each share of Series B Preferred Stock is convertible into
+1,000
+shares of Common Stock. The shares of Series B Preferred Stock
+do not afford the holder voting rights other than as required by law, and each share of Series B Preferred Stock entitles the holder
+to receive an annual cumulative, non-compounding dividend at an annual rate of
+4
+% of the Stated Value (being equal to $
+600
+per share
+of Series B Preferred Stock) (the “Series B Dividends”), payable in either cash or shares of the Company’s common stock.
+The Series B Dividends accrue, without interest and on a cumulative basis, during two semi-annual dividend periods beginning on the first
+day of each January and July, respectively. The Series B Dividends are payable semi-annually in arrears on January 15th and July 15th
+of each year. The Series B Dividends began accruing on June 16, 2025, and is prorated on the basis of a 360-day year consisting of twelve
+30-day months. Only holders of Series B Preferred Stock as of the first day of the month in which a dividend is due to be paid (or another
+date to be no more than 30 days nor less than 10 days prior to the date of the dividend payment, as determined by the Company’s
+board of directors or a duly authorized officer) are eligible to receive a Series B Dividend for the applicable period.
+On
+January 5, 2026, the Company and Aramark entered into an amendment to a binding letter of intent originally entered into in June 2025
+(the “LOI Amendment”) whereby Aramark agreed to become the exclusive provider of certain food, beverage, catering, concession,
+retail, custodial, grounds, and facility maintenance services (collectively, the “Services”) at two additional Company amphitheaters
+to be constructed in El Paso, TX and the greater Houston, TX area beginning upon the date that each facility opens and ending 10 years
+from the earliest opening date of the Company’s Broken Arrow, OK or McKinney, TX amphitheaters. In connection with the LOI Amendment,
+Aramark committed to an additional $
+10,005,000
+equity investment in the Company by purchasing a total of
+667
+additional shares of Series
+B Preferred Stock. In exchange, the Company issued, or will issue (i)
+333
+shares of Series B Preferred Stock for $
+4.995
+million on January
+20, 2026, and (ii)
+334
+shares of Series B Preferred Stock for $
+5.010
+million on October 15, 2026. On January 6, 2026, the Company filed
+an amendment to the Certificate of Designation, Preferences, and Rights of the Series B Preferred Stock with the Colorado Secretary of
+State (the “COD Amendment”) for the sole purpose of increasing the number of shares of preferred stock designated as Series
+B Preferred Stock from
+675
+shares to
+1,342
+shares, thereby allowing the Company to issue the additional
+667
+shares of Series B Preferred
+Stock to Aramark. The COD Amendment did not alter or effect the rights, preferences, powers, and restrictions of the Series B Preferred
+Stock. On January 6, 2026, the Company and Aramark entered into an agreement for the purchase and sale of those additional shares of
+Series B Preferred Stock.
+NOTE
+10 – EQUITY (Continued)
+Common
+Stock
+On
+January 3, 2025, the Company issued
+10,000
+shares of Common Stock to a services firm at a price of $10 per share.
+In
+April 2025, the Company issued a consultant
+10,000
+shares of Common Stock in consideration for services rendered to the Company.
+In
+May 2025, the Company issued a consultant
+10,000
+shares of Common Stock in consideration for services rendered to the Company.
+On
+June 3, 2025, the Company issued
+1,007,292
+shares of Common Stock in full satisfaction of obligations owed under a promissory note originally
+issued to KWO, LLC in January 2024.
+On
+June 22, 2025, the Company issued
+1,542,367
+shares of Common Stock in full satisfaction of all principal and accrued interest due under
+certain convertible promissory notes as discussed in Note 9.
+On
+July 22, 2025, the Company issued
+103,667
+shares of Common Stock in satisfaction of
+50
+% of the principal and accrued interest due under
+certain convertible promissory notes as discussed in Note 9.
+On
+September 22, 2025, the Company entered into an Ambassador Agreement with a third party for the purpose of increasing awareness of the
+Company. The term of the agreement is three years and requires cash payments to the brand ambassador, being a payment at the time of
+the signing of the agreement, and then on-going payments at defined intervals. During the term of the agreement, the Company will also
+issue shares of Common Stock to the ambassador on the 91st day after the effective date of the agreement and every 91 days thereafter.
+The number of such shares of Common Stock to be issued on each grant date during the term will equal a value of $
+125,000
+, such value
+to be determined based on the Volume Weighted Average Price per share during the preceding twenty days during which the NYSE American
+was open. During the three and six months ended June 30, 2026, the Company made cash payments totaling $
+62,500
+and $
+62,500
+and issued
+31,328
+and
+69,438
+shares of Common Stock, respectively.
+On
+October 28, 2025, the Company’s shareholders approved an amendment to the Company’s Amended and Restated 2023 Omnibus Incentive
+Compensation Plan (the “2023 Plan”) to increase the number of shares of the Company’s Common Stock from
+2,500,000
+shares
+to
+7,500,000
+shares.
+On
+November 6, 2025, the Company entered into a Partner Agreement with a third party for the purpose of increasing awareness of the Company.
+The term of the Agreement is three years and requires cash payments to the brand ambassador, being a payment at the time of the signing
+of the agreement, and then on-going payments at defined intervals. During the term of the agreement, the Company will also issue shares
+of Common Stock to the ambassador on the 91st day after the effective date of the agreement and every 91 days thereafter. The number
+of shares of Common Stock to be issued on each grant date during the term will equal a value of $
+187,500
+, such value to be determined
+based on the volume weighted average price per share during the preceding twenty days during which the NYSE American was open. During
+the three and six months ended June 30, 2026, the Company made cash payments totaling $
+0
+and $
+62,500
+and issued
+29,064
+and
+75,475
+shares
+of Common Stock, respectively.
+On
+November 18, 2025, the Board of Directors authorized the repurchase of up to $
+10,000,000
+of
+outstanding shares of the Company’s Common Stock (the “Share Repurchase Program”). The Share Repurchase Program
+expires on December 31, 2026. Repurchases under the Share Repurchase Program may be made from time to time through open-market
+repurchases or through privately negotiated transactions subject to market conditions, applicable legal requirements, and other
+relevant factors. The Company is not obligated under the Share Repurchase Program to acquire any particular amount of Common Stock,
+and the Company may terminate or suspend the Share Repurchase Program at any time prior to its expiration. The timing and actual
+number of shares of Common Stock repurchased may depend on a variety of factors, including price, available liquidity, cash flows,
+general market conditions, and alternative opportunities.
+NOTE
+10 – EQUITY (Continued)
+Class
+B Common Stock
+On
+October 24, 2025, a total of
+75,000
+shares of Class B Non-Voting Common Stock were exchanged for 75,000 shares of Common Stock.
+Public
+and Private Offerings
+On
+August 28, 2025, the Company completed a public offering of
+2,875,000
+shares Common Stock at a public offering price of $
+12.00
+per share,
+generating gross proceeds of $
+34,500,000
+. The Company also granted the underwriters a 45-day option to purchase up to
+375,000
+additional
+shares of Common Stock on the same terms and conditions for the purpose of covering any over-allotments in connection with the Offering,
+which the underwriters exercised on August 27, 2025. The Company received net proceeds of approximately $
+32,000,000
+from the offering,
+after deducting underwriting discounts and commissions and other offering expenses.
+On
+September 3, 2025, the Company entered into a Subscription Agreement with Tixr, Inc. and completed a private offering of
+62,500
+shares
+of Common Stock at a price of $
+16.00
+per share, generating gross proceeds of $
+1,000,000
+.
+On
+March 10, 2026, the Company closed a public offering of
+14,340,000
+shares of Common Stock , and pre-funded warrants to purchase
+up to
+4,410,000
+shares of Common Stock (“Pre-Funded Warrants”),
+in lieu of shares of Common Stock, in each case together with accompanying warrants exercisable for a five year term to purchase up to
+18,750,000
+shares of Common Stock at $
+5.00
+per share (“Common Warrants”). The aggregate public
+offering price for each share of Common Stock, together with one Common Warrant, was $
+4.00
+.
+The aggregate public offering price for each Pre-Funded Warrant, together with one Common Warrant, was $
+3.999
+.
+The Company also granted the underwriters a 45-day option to purchase up to an additional
+2,812,500
+shares of Common Stock and/or
+2,812,500
+Pre-Funded Warrants and/or
+2,812,500
+Common Warrants to cover any over-allotments in connection
+with the offering, which the underwriters exercised in full by March 10, 2026. The sale of shares of Common Stock, Pre-Funded Warrants,
+and accompanying Common Warrants (including from the exercises of the over-allotment option) in the offering generated net proceeds to
+the Company of approximately $
+80.1
+million, after deducting the underwriting discounts and commissions
+and other offering expenses.
+ATM
+Program
+On
+June 12, 2026, the Company entered into an ATM Sales Agreement (the “
+Sales Agreement
+”) with ThinkEquity LLC as the
+Company’s sole sales agent (the “
+Sales Agent
+”) with respect to the at-the-market offering (the “
+ATM
+Offering
+”) of shares of Venu’s Common Stock having an aggregate offering price of up to $
+25,000,000
+.
+Although the Company may determine the timing and amount of any sales of Common Stock under the Sales Agreement, the Sales Agreement
+does not obligate the Company or the Sales Agent to sell or buy any shares of Common Stock thereunder. During the three and six months
+ended June 30, 2026, the Company sold an aggregate of
+1,337,184
+shares of Common Stock in the ATM Offering, generating net
+proceeds of approximately $
+3.8
+million.
+NOTE
+10 – EQUITY (Continued)
+Treasury
+Stock
+The
+Company has
+76,245
+shares
+of treasury stock that it acquired through the acquisition of HIA. In addition, on August 12, 2024, the Company purchased
+100,000
+shares back from Roth Industries, a related party, at $
+5.00
+per share.
+On
+October 27, 2025, NLRE, a wholly owned subsidiary of the Company, entered into a real estate purchase and sale agreement with a related
+party (the “Purchaser”) to convey the land owned by PPP used for parking at Ford Amphitheater for a purchase price of $
+14,000,000
+.
+The Company received $
+7,600,000
+in cash and
+476,190
+shares of its Common Stock from the Purchaser (all of which were retired into treasury),
+valued at $
+6,400,000
+based on the average NYSE American Stock Exchange closing sale price over the seven trading days preceding November
+5, 2025 (the closing date of the sale), resulting in a gain on sale of $
+6,608,315
+. NLRE also entered into a ground lease agreement on
+November 5, 2025 to concurrently lease the property back from the Purchaser for a 20-year term (refer to Note 5 – Leases for further
+details regarding this lease).
+Concurrently
+with the sale-leaseback arrangement of the DST Property on June 5, 2026, the Company entered into a Stock Transfer Agreement with a
+related party (the “Transferor”), pursuant to which the Transferor agreed to transfer shares of the Company’s
+Common Stock to the Company with an aggregate value of approximately $
+10,000,000
+(such shares, the “Transferred Shares”; such value, the “Transferred Shares Value”). The Transferred Shares
+Value was determined based on the volume weighted average price per share during the preceding thirty days during which the NYSE
+American was open. On June 5, 2026 and June 8, 2026, the Transferor transferred an aggregate of
+2,638,522
+shares of Common Stock to the Company in exchange for a purchase price equal to the Transferred Shares Value, which was funded using
+a portion of the proceeds from the sale-leaseback arrangement. The Company retired the Transferred Shares into
+treasury.
+As
+of June 30, 2026 and December 31, 2025, the Company repurchased a total of
+3,390,957
+and
+752,435
+shares of treasury stock (which includes shares of Common Stock and Class B Common Stock), respectively.
+NOTE
+11 –
+EARNINGS PER SHARE
+The
+Company computes basic and diluted net income (loss) per share in accordance with ASC 260, Earnings Per Share. Basic EPS is calculated
+by dividing net income (loss) available to common stockholders by the weighted-average number of common shares outstanding during the
+period. The Company applies the two-class method as it has multiple classes of equity including the Series B
+4
+% Convertible Preferred
+Stock, issued on June 16, 2025.
+The
+Series B Preferred Stock is not a participating security and does not share in undistributed earnings beyond its fixed 4% cumulative
+dividend. Under the two-class method, income available to common shareholders is reduced by the cumulative preferred dividend, whether
+declared or not.
+The
+Series B Preferred is convertible at the option of the holder into
+1,000
+shares of Common Stock per preferred share (plus accrued dividends),
+and is considered a potentially dilutive security. For the three and six months ended June 30, 2026 and 2025, the assumed conversion
+of the Series B Preferred Stock was anti-dilutive and excluded in the diluted EPS computation. As of June 30, 2026 and December 31, 2025,
+Series B Preferred Stock dividends accrued were $
+524,625
+and $
+223,875
+, respectively.
+NOTE
+11 – EARNINGS PER SHARE (Continued)
+The
+following table sets forth the calculation of earnings per share, with no dividends declared yet, for the three and six months ended
+June 30, 2026 and 2025, as presented in the accompanying Unaudited Condensed Consolidated Statements of Operations:
+SCHEDULE OF CALCULATION OF EARNINGS PER SHARE
+For
+the Three Months Ended June 30, 2026
+For
+the Six Months Ended June 30, 2026
+For
+the Three Months Ended June 30, 2025
+For
+the Six Months Ended June 30, 2025
+NOTE
+12 –
+WARRANTS AND STOCK OPTIONS
+The
+Company grants, to certain of its directors and employees, warrants and stock options to purchase shares of the Company’s equity.
+The Company may also issue stock options or warrants to investors in connection with its capital raising and financing activities. In
+addition, the Company has adopted, and its shareholders have approved the 2023 Plan. Under the 2023 Plan, a total of
+7,500,000
+shares
+of the Company’s Common Stock are reserved for awards to directors, officers, employees and consultants. Incentive-compensation
+awards under the 2023 Plan may consist of incentive stock options, non-qualified stock options, stock appreciation rights, restricted
+stock, restricted stock units, and performance awards.
+Following
+is a summary of the warrant and stock options activities during the three and six months ended June 30, 2026 and 2025:
+SUMMARY
+OF WARRANT AND STOCK ACTIVITIES
+During
+the six months ended June 30, 2026, the Company issued and / or granted a total of
+34,443,250
+warrants and stock options, with (i) warrants exercisable to acquire
+5,000,000
+shares of Common Stock issued under the terms of the transaction documents for the June 2026 sale lease-back transaction involving the DST Property, (ii)
+21,562,500
+common warrants and
+4,410,000
+pre-funded warrants issued as part of the March 2026 offering to finance the construction of multi-seasonal amphitheaters, and (iii)
+3,470,750
+stock options granted to employees and directors.
+During
+the six months ended June 30, 2025, the Company issued and / or granted a total of
+4,297,500
+warrants and stock options with (i)
+2,500,000
+stock options granted to JW Roth and a significant shareholder of the Company in connection with the closing upon the real property
+in McKinney, (ii)
+900,000
+warrants issued to investors as part of the convertible promissory note offering effected in the six months ended June 30, 2025,
+(iii) an additional
+465,000
+in total warrants and options for contributed services and (iv)
+432,500
+to employees and directors.
+As
+of June 30, 2026, there was a total of
+39,492,927
+warrants and stock options exercisable with an aggregate intrinsic value of $
+875,475
+.
+For the total warrants and stock options outstanding of
+44,180,367
+as of June 30, 2026, the aggregate intrinsic value was $
+880,362
+. As
+of June 30, 2026, there was $
+12,524,647
+of unrecognized compensation cost related to non-vested warrants.
+NOTE
+12 – WARRANTS AND STOCK OPTIONS (Continued)
+As
+of December 31, 2025, there was a total of
+7,456,264
+warrants and stock options exercisable with an aggregate intrinsic value of $
+12,303,982
+.
+For the total warrants and stock options outstanding of
+9,752,617
+as of December 31, 2025, the aggregate intrinsic value was $
+14,329,214
+.
+As of December 31, 2025, there was $
+6,508,123
+of unrecognized compensation cost related to non-vested warrants.
+The
+equity-based compensation cost, related to warrants and stock options, are included as a charge to operating expenses in the Unaudited
+Condensed Consolidated Statements of Operations. The equity-based compensation cost totaled $
+1,782,521
+and $
+3,738,453
+for the three and
+six months ended June 30, 2026, respectively, and $
+1,883,762
+and $
+13,224,382
+for the three and six months ended June 30, 2025, respectively.
+As of June 30, 2026 and 2025, the equity-based compensation cost is expected to be recognized over a weighted-average period of
+4.87
+years and
+4.63
+years, respectively.
+Monte
+Carlo Stock Options
+On
+January 20, 2026, the Board of Directors approved the grant of
+3,000,000
+stock options to the Company’s Chairman and CEO. The stock
+options become exercisable only upon the Company’s Common Stock achieving certain price milestones within five years of the date
+of grant. If, at any time prior to January 30, 2031, the closing sales price of the Company’s Common Stock (as reported on the
+NYSE American (or other stock exchange or principal trading market where the Company’s Common Stock is then listed or quoted))
+achieves the following thresholds a portion of the options will vest based on the following schedule. Once vesting occurs for each tranche
+of
+1,000,000
+options, such tranche will be exercisable for
+five years
+from the date of vesting.
+SCHEDULE
+OF OPTIONS VESTED SUBJECT TO TRANCHE
+Fair
+Value Assumptions
+We
+estimate the fair value of warrants and stock options with service conditions on the grant date using the Black-Scholes-Merton model.
+The weighted-average assumptions used in the Black-Scholes-Merton model are as follows:
+SCHEDULE OF FAIR VALUE OF WARRANTS AND OPTION
+NOTE
+12 – WARRANTS AND STOCK OPTIONS (Continued)
+We
+estimate the fair value of stock options with market performance conditions on the grant date using the Monte Carlo simulation model.
+The weighted-average assumptions used in the Monte Carlo model are as follows:
+Stock
+options and warrants are equity classified, not liability classified, and are not remeasured at fair value.
+NOTE
+13 –
+ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+The
+carrying amounts of accounts payable and accrued expenses approximated their fair values at the balance sheet dates. Accounts payable
+at June 30, 2026 and December 31, 2025 were $
+59,635,351
+and $
+25,129,485
+, respectively, which primarily consisted of payments to vendors
+for operations including inventory, marketing, professional services, security, and payments for construction of the Company’s
+future facilities. Accrued expenses at June 30, 2026 and December 31, 2025 were $
+6,620,210
+and $
+27,847,751
+, respectively, which included
+accruals of general operating expenses, property and sales taxes, interest accrued on long-term debt and NNN firesuite liability, and
+construction costs related to future venues.
+Total
+accrued expenses consist of the following:
+SCHEDULE
+OF ACCRUED EXPENSES
+NOTE
+14 –
+NNN FIRESUITE LIABILITY
+NNN
+Luxe FireSuite Real Estate Offering (“Cash Purchase”)
+During
+2025, the Company entered into arrangements to sell the exclusive use rights to Luxe FireSuites to third parties and concurrently lease
+them back for a 15-year term under a NNN lease structure. Under these agreements, the third-party pays an upfront purchase price for
+a Luxe FireSuite and the Company (through a subsidiary, as seller-lessee) immediately leases the suite for its own use for 15 years.
+Monthly lease payments to the buyer/lessor are fixed to yield an
+11
+% annual return on the purchase price, with a
+2
+% escalation each year.
+NOTE
+14 – NNN FIRESUITE LIABILITY (Continued)
+At
+the end of the 15-year lease term, the buyer/lessor has a one-time option to require the Company to repurchase the Luxe FireSuite rights
+at a price equal to
+150
+% of the original purchase price (“Lessor Sale Option”). If the buyer/lessor exercises this put option
+(which expires at lease end), the Company must buy back the suite rights at the agreed price. If the buyer/lessor does not exercise the
+option, the lease will terminate and the buyer/lessor will retain the ownership of the suite rights going forward (i.e. the buyer/lessor’s
+rights will continue beyond year 15, and the Company will no longer lease the suite). The repurchase option provides the buyer/lessor
+with an annual return on its purchase and, as a result, the Company expects that the option will be exercised in most, if not all, cases.
+The
+Company recognizes interest expense on the financing liability over the 15-year term at an effective interest rate that reflects the
+11
+% initial yield and the annual
+2
+% escalations, such that the liability will accrete to the
+150
+% repurchase price by the end of the
+term. The financing liability arising from the Luxe FireSuite transactions is included in the Company’s Unaudited Condensed Consolidated
+Balance Sheets. As of June 30, 2026, the balance of the NNN firesuite liability was $
+39,159,131
+, which reflects initial proceeds of $
+38,277,000
+received from the buyer/lessor and includes $
+317,870
+and $
+606,617
+of accreted interest for the three and six months ended June 30, 2026,
+respectively. As of December 31, 2025, the balance of the NNN firesuite liability was $
+31,064,514
+, which reflects initial proceeds of
+$
+30,789,000
+received from the buyers/lessors. There was
+no
+accreted interest for the three and six months ended June 30, 2025. For the
+three and six months ended June 30, 2026, the Company recognized interest expense of $
+3,050,536
+and $
+5,217,516
+, respectively, related
+to the Luxe FireSuites financing, which is included within Interest Expense in the Unaudited Condensed Consolidated Statements of Operations.
+There was
+no
+Interest Expense recognized for the three and six months ended June 30, 2025.
+NNN
+Luxe FireSuite Real Estate Offering with Financing Option (“Finance Purchase”)
+In
+April 2026, the Company launched initiated a new arrangement to sell the exclusive use rights to Luxe FireSuites at the Sunset
+Amphitheaters in Broken Arrow, Oklahoma and El Paso, Houston, and McKinney, Texas to third parties and concurrently lease them back
+under a NNN lease structure. Under these agreements, the third-party pays an upfront purchase price or a cash deposit under a
+financing option over 20 years for a Luxe FireSuite and the Company immediately leases the suite for its own use for 15 years.
+Monthly lease payments to the buyer/lessor are fixed to yield an
+11
+%
+annual return on the purchase price, with a
+2
+%
+escalation each year, and the buyer/lessor’s monthly payment obligations under the NNN promissory notes are settled through
+reductions in their monthly distributions.
+The
+buyer/lessor has a one-time option at the end of 5, 10, or 15 years to require the Company to repurchase the Luxe FireSuite rights at
+a price equal to 115%, 125%, or 150%, respectively, of the original purchase price (the “Lessor Repurchase Price”). If the
+buyer/lessor exercises this put option at the end of each respective period, the Company must repurchase the suite rights at the agreed
+price, with the Lessor Repurchase Price settled against the remaining outstanding NNN promissory notes receivable balance (see Note 6
+– Promissory Notes Receivable for further details).
+If the buyer/lessor does not exercise the option, the lease will terminate
+at the end of 15 years, and the buyer/lessor will retain ownership of the suite rights going forward.
+The
+Company recognizes interest expense on the financing liability over the 15-year term at an effective interest rate that reflects the
+11
+% initial yield and the annual
+2
+% escalations, such that the liability will accrete to the Lessor Repurchase Price by the end of the
+term. The financing liability arising from the Luxe FireSuite transactions is included in the Company’s Unaudited Condensed Consolidated
+Balance Sheets. As of June 30, 2026, the balance of the NNN firesuite liability was $
+19,630,392
+, which reflects initial proceeds of $
+19,537,000
+received from the buyer/lessor, net of $
+542,646
+of principal repayments, and includes $
+93,392
+and $
+93,392
+of accreted interest for the
+three and six months ended June 30, 2026, respectively. As of December 31, 2025, the balance of the NNN firesuite liability was $
+0
+and,
+accordingly,
+no
+proceeds from the buyer/lessor, accreted interest, and interest expense were recognized.
+NOTE
+14 – NNN FIRESUITE LIABILITY (Continued)
+Following
+is the future maturities of the NNN firesuite liability for the twelve months ending June 30,
+SUMMARY OF FUTURE MATURITIES OF LONG TERM DEBT
+NOTE
+15 –
+RELATED PARTY TRANSACTIONS
+The
+Company owns
+526,166
+Class B non-voting units or
+1.2
+%
+of Roth Industries, LLC (“Roth Industries”). The Company’s Chairman and CEO is also the founder, Chairman and a
+significant equity holder of Roth Industries. Mitchell Roth, a member of the Company’s Board of Directors, is also the CEO,
+President, and a significant equity holder of Roth Industries. Certain of the Company’s other officers and directors are also
+minority equity owners of Roth Industries. The Company currently accounts for this investment based on ASC 325,
+Investments
+– Other
+, under the cost method. In addition, the Company recognizes licensing fees from Roth Industries for Roth
+Industries’ licensing use of the Bourbon Brothers brand in grocery products since the Company holds the exclusive license to
+use the brand. Licensing fee income recognized was $
+32,500
+and $
+65,000
+during the three and six months ended June 30, 2026, respectively. Licensing fee income recognized was $
+35,000
+and $
+70,000
+during the three and six months ended June 30, 2025, respectively. The Company had $
+302,500
+and $
+237,500
+in receivables from Roth Industries as of June 30, 2026 and December 31, 2025, respectively. The amounts received were recorded in
+other income in the Unaudited Condensed Consolidated Statements of Operations and the amounts receivable included in other
+receivables as prepaid expenses and other current assets in the Unaudited Condensed Consolidated Balance Sheets.
+The
+Company invested in Culinova, Inc. (formerly known as Innovate CPG, Inc.) for a total of
+526,166
+shares (and paid a total purchase price of $
+5,261.66
+)
+in May 2025. As an equity holder of Roth Industries, the Company was afforded the right to acquire shares of Culinova, Inc. on the
+same terms as other equity holders of Roth Industries. The Company’s Chairman and CEO is a director of Culinova, Inc., and
+Mitchell Roth, a director of the Company, is the Chairman and CEO of Culinova, Inc. Certain of the Company’s other officers
+and directors are also minority equity owners of Culinova, Inc. The Company currently accounts for this investment based on ASC 325,
+Investments
+– Other
+, under the cost method.
+On
+June 26, 2024, the Company purchased the land and building of 13141 BP for a total purchase price of $
+2,761,000
+. 13141 BP sold the land
+and building to a third party on July 18, 2025, at which time the Company determined the disposed component did not meet discontinued-operations
+criteria and its financial impacts were reported within the normal results of continuing operations (and not segregated below income
+from continuing ops). The Company’s restaurant operating entity at this location, Notes Eatery, closed as of July 18, 2025.
+In
+2025 and 2026, the Company entered into several lease, debt and equity transactions with related parties, including a significant shareholder
+of the Company and the Company’s Chairman and CEO. These include ground lease agreements (refer to Note 5 – Leases for further
+details), convertible debt agreements (refer to Note 9 – Debt for further details), and an issuance of shares of the Company’s
+common stock and warrants (refer to Note 10 – Equity for further details).
+NOTE
+16 –
+COMMITMENTS AND CONTINGENCIES
+From
+time to time, the Company may become party to litigation and other claims in the ordinary course of business. To the extent that
+such claims and litigation arise, management provides for them if upon the advice of counsel, losses are determined to be both
+probable and estimable. In addition, the Company enters into public private partnerships. These partnerships, may require the
+Company to meet construction timelines. There may be liquidated damage clauses, etc. To the extent that such claims arise,
+management provides for them if upon the advice of counsel, losses are determined to be both probable and estimable.
+NOTE
+17 –
+SUBSEQUENT EVENTS
+The
+Company has evaluated subsequent events through August 14, 2026, and identified the following:
+On
+July 14, 2026, the Company, through one of its subsidiaries, entered into a Consulting and Management Agreement with Legends Global
+Theater Management, LLC (“Legends”) in connection with the Regent Bank Amphitheater being developed in Broken Arrow,
+Oklahoma. Under this agreement, Legends will provide pre-opening advisory services and will book and promote live music concerts,
+comedy events and other mutually approved entertainment events at the Regent Bank Amphitheater in exchange for a fixed monthly pre-opening advisory
+fee; a monthly management fee consisting of the greater of a fixed annual fee or a fixed percentage of adjusted gross income, less
+specified event-related costs; an annual incentive fee upon achievement of mutually agreed key performance indicators; and monthly
+commissions related to food-and-beverage revenues.
+On
+July 17, 2026, for the purpose of funding construction costs for its in-development amphitheater projects, the Company, together
+with certain of its subsidiaries named as guarantors, entered into a Secured Promissory Note and Guaranty Agreement (the
+“Note”) with Ryan, LLC (the “Lender”), pursuant to which the Lender provided the Company with a secured, short-term bridge loan (the “Bridge Loan”)
+in the principal amount of $
+20,000,000
+plus up to $
+500,000
+to cover certain of the Lender’s third-party fees, costs, and expenses incurred in negotiating the Note. The term of
+the Bridge Loan is 90 days from July 17, 2026, and the Bridge Loan bears interest at
+18.0
+%
+per annum. The Bridge Loan is personally guaranteed by the Company’s Chairman and CEO.
+In July 2026, the Company granted
+200,000
+stock options to a director of the Company,
+250,000
+stock options to an advisor to the Company’s CEO and a director nominee for election to the Company’s
+Board of Directors at the Company’s upcoming annual meeting of shareholders (the “Annual Meeting”), and
+300,000
+stock options to an officer of the Company (subject to shareholder approval at the Annual Meeting of a proposed amendment
+to the 2023 Plan to increase the number of shares of Common Stock reserved for issuance under the 2023 Plan).
+In connection with the Partner Agreement dated
+November 6, 2025 that the Company entered into with one of its brand ambassadors, the Company issued
+77,479
+shares of Common Stock to the
+brand ambassador in August 2026.
+Pursuant
+to the Old Mill Note dated February 3, 2026, the Company elected to satisfy the first six months of accrued interest payable to Old Mill
+in the form of the Company’s Common Stock. The number of shares of Common Stock issued was based on a value of approximately $
+174,577
+,
+determined using the volume weighted average price per share during the preceding ten days during which the NYSE American was open. On
+August 3, 2026, the Company issued
+76,234
+shares of Common Stock to satisfy the accrued interest obligation.
+Effective
+August 3, 2026, the Company entered into a Ticketing Agreement with Ticketmaster L.L.C. (“Ticketmaster”) pursuant to
+which Ticketmaster is granted the right to be the exclusive seller of all tickets for the sellable capacity of any event held at the
+Regent Bank Amphitheater, The Sunset McKinney, and The Sunset El Paso. In exchange, the Company will pay Ticketmaster certain
+charges and fees assessed per ticket sold. The term of this agreement will continue for five years following the opening date of the
+last of the Regent Bank Amphitheater, The Sunset McKinney, and The Sunset El Paso to open (the “Initial Term”) and
+automatically renews for successive five-year periods following the Initial Term, unless either party elects to terminate the
+agreement.
+On
+July 31, 2026 (the “Issuance Date”), the Company entered into a Securities Purchase Agreement (the “Purchase
+Agreement”) with an institutional investor (the “Purchaser”) in connection with the issuance and sale by the
+Company of an aggregate of $
+25,000,000
+in original principal amount of Senior Secured Convertible Debentures (the “Debentures”) to the Purchaser and warrants
+to purchase shares of Common Stock (the “Warrants”). Pursuant to the Debentures, $
+12,500,000
+of the original principal amount that was funded to the Company by the Purchaser on the Issuance Date (the “Holdback
+Amount”) is initially being held in an account as cash collateral, subject to release to the Company upon the Company’s compliance with certain terms in the Debentures. The Debentures will mature on July 31, 2027, unless earlier
+converted or redeemed. The Debentures have an original issue discount of 5%. Accordingly, on the Issuance Date, the Company received
+gross proceeds of $
+11,875,000
+before fees and expenses. If the Holdback Amount is subsequently released to the Company pursuant to the Debentures, the Company
+will receive additional gross proceeds of $
+11,875,000
+,
+resulting in aggregate gross proceeds to the Company of $
+23,750,000
+before fees and expenses. The Debentures do not bear interest unless and until the occurrence of an event of default, in which case
+the Debentures will accrue interest at a rate of
+18
+%
+per annum. At any time on or after the Issuance Date, the Debentures are convertible at the option of the Purchaser into shares of
+Common Stock at an initial conversion price of $
+7.50
+per share, subject to adjustment upon a payment failure or other event of default as provided in the Debentures. The Company will be
+required to make monthly installment payments consisting of $
+5,000,000
+of principal,
+the
+applicable payment premium on such principal amount, which is initially 15% but increases to 20% after the 75th day following the
+Issuance Date, and any accrued and unpaid interest, in accordance with the Debentures’ repayment schedule.
+BBRP DST offers
+beneficial interests in the trust that include both equity and debt components. From June 30, 2026 through August 13, 2026, the
+Company sold approximately $
+7.3
+million of beneficial interests in BBRP DST, including to a related party.
+You
+should read the following discussion and analysis of Venu’s financial condition and results of operations together with our audited
+consolidated financial statements as of and for the fiscal year ended December 31, 2025, which is included in our Annual Report on Form
+10-K for the year ended December 31, 2025 (the “Annual Report”), and our unaudited condensed consolidated financial statements
+as of June 30, 2026 and for the three and six months ended June 30, 2026 and 2025, which appear at the end of this Quarterly Report on
+Form 10-Q, in each case together with the related notes thereto. Some of the information contained in this discussion and analysis or
+set forth at the end of this Quarterly Report, including information with respect to our plans and strategy for our business and related
+financing, includes forward-looking statements that involve risks and uncertainties. As a result of many factors, including those factors
+set forth in the section entitled “Risk Factors,” actual results could differ materially from the results described in or
+implied by the forward-looking statements contained in the following discussion and analysis. You should carefully read the section of
+this Quarterly Report entitled “Risk Factors” to gain an understanding of the important factors that could cause actual results
+to differ materially from forward-looking statements. Please also see the section entitled “Cautionary Note Concerning Forward-Looking
+Statements.” Forward-looking statements may be identified by words such as “anticipate,” “estimate,” “plan,”
+“project,” “continuing,” “ongoing,” “expect,” “believe,” “intend,”
+“may,” “will,” “should,” “could,” and similar expressions. Future operating results,
+however, are impossible to predict, and no guarantee or warranty is to be inferred from those forward-looking statements.
+MD&A
+Overview
+This
+section presents management’s perspective on the financial condition and results of operations of Venu Holding Corporation. Unless
+otherwise noted, for purposes of this section, the terms “we,” “us,” “our,” “Company,”
+and “Venu” refer to Venu Holding Corporation and its consolidated subsidiaries. The following discussion and analysis (this
+“
+MD&A
+”) is intended to highlight and supplement data and information presented elsewhere in this Quarterly Report
+and should be read in conjunction with our audited consolidated financial statements as of and for the fiscal years ended December 31,
+2025 and 2024, which are included in the Annual Report, and our unaudited condensed consolidated financial statements as of June 30,
+2026 and for the three and six months ended June 30, 2026 and 2025, which are included in this Quarterly Report, in each case together
+with the related notes thereto. Results for any period or year should not be construed as an inference of what our results would be for
+any full fiscal year or future period. This MD&A is also intended to provide you with information that will facilitate your understanding
+of our consolidated financial statements, the changes in key items in those consolidated financial statements from year to year, and
+the primary factors that accounted for those changes. To the extent that this discussion describes prior performance, the descriptions
+relate only to the periods listed, which may not be indicative of our future financial outcomes. In addition to historical information,
+this discussion contains forward-looking statements that involve risks, uncertainties, and assumptions that could cause results to differ
+materially from management’s expectations. Factors that could cause such differences are discussed in the sections titled “Cautionary
+Note Concerning Forward-Looking Statements” and “Risk Factors.” Our MD&A is organized as follows:
+Business
+Overview
+Business
+Venu
+is a Colorado-based hospitality and entertainment corporation that develops, builds, owns, and operates luxury, live-entertainment venue
+campuses, which consist of event centers, multi-seasonal amphitheaters, restaurants, and bars. As a growing entertainment and hospitality
+company, we continue to expand our portfolio of indoor and outdoor music venues and entertainment campuses where music, dining, and luxury
+converge in strategically selected markets.
+Key
+Milestones and Recent Developments
+Our
+operations to date have enabled us to achieve growth and the key milestones, including:
+Venue
+Ownership
+Venu
+primarily generates revenue through restaurant operations, event rentals, naming rights and sponsorship arrangements, and hosting concerts
+and events. Our business involves developing, owning, and operating the following types of venues and entertainment spaces:
+Event Centers
+— Event centers are indoor, intimate music and event venues that can accommodate up to approximately 1,400 guests. This
+venue category includes our
+Bourbon Brothers Presents
+venues, which are designed to host approximately 1,400 concertgoers at general
+admission concerts featuring national-touring artists or to seat between 500 and 700 guests at more intimate events such as concerts
+featuring tribute bands or dueling pianos, corporate functions, or weddings. Our BBP event centers can be transitioned from one configuration
+to the next. This operational flexibility is intended to maximize our event-rental opportunities by expanding the types of events we
+can host while minimizing the time it takes to stage one event to the next, allowing us, for example, to host a concert one night and
+a wedding the following afternoon.
+Amphitheaters
+— Amphitheaters are venues that accommodate between 8,000 and 20,000 concertgoers. Amphitheaters are designed with special acoustics,
+premium seat packages, and luxurious suites intended to amplify guests’ music and entertainment experiences. Our first amphitheater
+venue was the Ford Amphitheater in Colorado Springs, Colorado, which is an open-air, 8,000-person venue. In addition to lawn and stadium-style
+seating that allows us to offer tickets at an array of price points, Ford Amphitheater has Luxe FireSuites that deliver premium hospitality
+and a more luxurious, personalized concert experience. Ford Amphitheater, which opened in August 2024, is designed with 92 VIP Luxe FireSuites
+, accommodating a total of 736 VIP guests. Ford Amphitheater primarily hosts concerts from April through October each year. The amphitheaters
+under development or planned for development in Oklahoma and Texas will also have Luxe FireSuites and are designated to host multi-seasonal
+events.
+Restaurants
+— Bourbon Brothers Smokehouse
+& Tavern is Venu’s flagship, full-service restaurant concept. BBST serves American classics and Southern staples, accompanied
+by a selection of rare bourbons, ryes, whiskies, and local craft beers. Venu develops its BBST restaurants and BBP event centers in close
+proximity to one another, which allows BBST to serve as the exclusive caterer for BBP events.
+Fine
+Dining, Hospitality, and Entertainment Campuses
+— In June 2025, Venu opened Roth’s Sea & Steak, a fine-dining restaurant
+in a mixed-use development adjacent to Ford Amphitheater, for exterior concert seating. In November 2025, Venu opened the restaurant
+operations of Roth’s Sea & Steak. Framing either side of Roth’s are two configurable hospitality spaces to be used for
+hosting corporate events, weddings, trade shows, conventions, and other events. Above Roth’s and in between the Notes Hospitality
+Collection spaces is a “top-shelf” bar and lounge called Brohan’s, which opened in November 2025 and offers unobstructed
+views of the surrounding area that Venu intends to monetize during marquee shows at Ford Amphitheater.
+The
+following table summarizes the types of venues we are operating or otherwise in development and / or planning to develop, describing
+each by venue type, location, expected opening date, and current status.
+Business
+Segment
+We
+consider our restaurant and event center operations as similar, in close proximity, and have aggregated them into a single reportable
+segment. Revenue from our customers is primarily derived from food and beverage (“
+F&B
+”) services (our “
+Restaurant
+Operations
+”) with a portion being served contemporaneously with live entertainment during the events and concerts that we promote
+and host (our “
+Event Operations
+”) at the event center and amphitheaters, in addition to the revenues generated by
+venue rentals and sponsorships at the event centers and amphitheaters.
+Event Operations.
+The Event Operations
+portion of our business involves the promotion of live music and events in our owned or operated venues, the operation and management
+of our venues, the creation of content from concerts and events hosted in our venues, and the provision of management and other services
+to artists. Between BBP CO in Colorado Springs, Colorado, and BBP GA in Gainesville, Georgia, we promote and hold hundreds of live music
+and other events each year.
+For the three months ended June 30, 2026, we promoted
+and held 27 concerts and 27 private events at BBP CO, 35 concerts and 3 private events at BBP GA. No private events were held at Notes
+Eatery in 2026 due to its closure in July 2025. For the three months ended June 30, 2025, we promoted and held 30 concerts and 15 private
+events at BBP CO, 40 concerts and 3 private events at BBP GA, and 6 private events at Notes Eatery.
+For the six months ended June 30, 2026, we promoted
+and held 55 concerts and 35 private events at BBP CO, 63 concerts and 5 private events at BBP GA. No private events were held at Notes
+Eatery in 2026 due to its closure in July 2025. For the six months ended June 30, 2025, we promoted and held 55 concerts and 23 private
+events at BBP CO, 71 concerts and 10 private events at BBP GA, and 15 private events at Notes Eatery.
+Our
+Event Operations business generated $1,232,696, or 26% and $2,299,794, or 27%, of our total revenue during the three and six months ended
+June 30, 2026, respectively. Our Event Operations business generated $1,350,418, or 30% and $2,627,078, or 33%, of our total revenue
+during the three and six months ended June 30, 2025, respectively. The $117,722 or 9% decrease in revenue for the three-month period
+and $327,284 or 12% decrease in revenue for the six-month period from 2025 to 2026 were primarily attributable to weaker event ticket sales
+at BBP GA and BBP CO during the first half of 2026.
+Within
+our Events Operations, we generate revenues through: (i) ticket sales and fees on tickets sold directly by us or through the ticketing
+business that we contract with for our events; (ii) fees collected on tickets sold by other third-party platforms, such as convenience
+and order-processing fees and service charges; (iii) venue rentals, which occur for a variety of corporate and personal events; (iv)
+pre-selling naming rights to our live-entertainment venues by partnering with industry-leading brands under naming-rights agreements;
+and (v) sponsorship sales, which allow brands to advertise at our venues by showcasing their names and logos on a variety of sponsorship
+inventory curated for each of our venues and at each event we promote and host.
+Restaurant
+Operations.
+Revenues generated through restaurant operations included F&B sales at our BBST restaurants, Roth’s Sea &
+Steak, and Notes bar (known as Notes Eatery). F&B sales include all revenues recognized with respect to stand-alone F&B sales,
+along with F&B sales at BBP CO and BBP GA.
+Our
+Restaurant Operations business generated $3,192,696, or 67% and $5,617,082, or 66%, of our total revenue during the three and six months
+ended June 30, 2026, respectively. Our Restaurant Operations business generated $2,545,178, or 57% and $4,590,094, or 57%, of our total
+revenue for the three and six months ended June 30, 2025, respectively. The $647,518 or 25% increase in revenue for the three-month period
+and $1,026,988 or 22% increase in revenue for the six-month period from 2025 to 2026 were primarily attributable to the opening of Roth’s
+Sea & Steak in November 2025, offset by decreased revenue from the closure of Notes Eatery in July 2025 and softer overall F&B
+sales at BBST GA. BBST GA was specifically impacted by the early winter storms, which led to full and partial closures over two weekends
+during the first quarter of 2026.
+Amphitheater Operations.
+Through a subsidiary,
+we entered into an agreement with AEG Presents whereby they lease and operate Ford Amphitheater in Colorado Springs, Colorado. Within
+our Amphitheater Operations, we pre-sell naming rights to our amphitheater by partnering with industry-leading brands under naming-rights
+agreements. At the Ford Amphitheater, we generate net profits that are split with AEG Presents through: (i) ticket sales, fees, and rebates
+on tickets for concerts and events held at Ford Amphitheater; (ii) parking fees; (iii) venue rentals, which may occur for a variety of
+corporate and personal events; (iv) food and beverage sold at the shows and events; and (v) sponsorship sales, which allow brands to advertise
+at our venue by showcasing their names and logos on a variety of sponsorship inventory curated for the venue and at each event we promote
+and host, all of which are offset by operating expenses, artist expenses, supplies, security, utilities, insurance, overhead, and other
+operating costs within our net amphitheater revenue recognition from AEG Presents. For future amphitheater locations we expect to open,
+we anticipate entering into customized operating, concession, and content arrangements with third-party partners.
+Our Amphitheater Operations generated $370,069,
+or 8% and $630,072, or 7%, of our total revenue during the three and six months ended June 30, 2026, respectively. Our Amphitheater Operations
+generated $591,712, or 13% and $769,294, or 10%, of our total revenue during the three and six months ended June 30, 2025, respectively.
+The $221,643 or 37% decrease in revenue for the three-month period and $139,222, or 18% decrease in revenue for the six-month period from
+2025 to 2026 were primarily driven by a decrease in the number of shows, from 11 shows held during the three and six months ended June
+30, 2025 to 6 shows held during the three and six months ended June 30, 2026. This decrease resulted in lower amphitheater net profits
+shared with AEG Presents. The Company expects its amphitheater net profits to strengthen during the remainder of 2026, driven by continued
+operations of the Ford Amphitheater throughout its season. The Company anticipates to open the Regent Bank Amphitheater in Fall 2026,
+which is expected to contribute additional amphitheater revenue following its opening. The Company will begin recognizing naming rights
+sponsorship revenue in July 2026 in connection with the Regent Bank Amphitheater.
+Financial
+Private
+Offerings
+Since
+our formation in 2017, we have funded our operations, in part, through proceeds from private sales of our equity and debt securities.
+We
+anticipate raising additional cash through the private sales of membership interests in certain of our subsidiary entities (including
+interests in our Luxe FireSuites and / or lease rights to those suites) at our amphitheater locations, collaborative arrangements such
+as owner’s clubs, or a combination thereof, to continue to fund our construction of venues. There is no assurance that any such
+collaborative arrangement will be entered into or that financing will be available to us when needed in order to allow us to continue
+our operations, or if available, on terms acceptable to us. If we do not raise sufficient funds in a timely manner, we may be forced
+to curtail operations or revise the timeline of our business plan.
+Registered
+Equity Offerings
+On March 8, 2026, we completed a public offering
+of 14,340,000 shares of Common Stock, and Pre-Funded Warrants to purchase up to 4,410,000 shares of Common Stock, in lieu of shares of
+Common Stock, in each case together with accompanying Common Warrants to purchase up to 18,750,000 shares of Common Stock. The aggregate
+public offering price for each share of Common Stock, together with one Common Warrant, is $4.00. The aggregate public offering price
+for each Pre-Funded Warrant, together with one Common Warrant, is $3.999. The closing of the offering took place on March 10, 2026. We
+also granted the underwriters a 45-day option to purchase up to an additional 2,812,500 shares of Common Stock and/or 2,812,500 Pre-Funded
+Warrants and/or 2,812,500 Common Warrants to cover any over-allotments in connection with the offering. The over-allotment option was
+exercised in full. We received net proceeds of approximately $80.1 million (including from the exercises of the over-allotment option),
+after deducting the underwriting discounts and commissions and other offering expenses.
+On June 12, 2026, the Company entered into an
+ATM Sales Agreement (the “
+Sales Agreement
+”) with ThinkEquity LLC as the Company’s sole sales agent (the “
+Sales
+Agent
+”) with respect to the at-the-market offering (the “
+ATM Offering
+”) of shares of Venu’s Common
+Stock having an aggregate offering price of up to $25,000,000. Although the Company may determine the timing and amount of any sales
+of Common Stock under the Sales Agreement, the Sales Agreement does not obligate the Company or the Sales Agent to sell or buy any shares
+of Common Stock thereunder. During the three and six months ended June 30, 2026, the Company sold an aggregate of 1,337,184 shares of
+Common Stock in the ATM Offering, generating net proceeds of approximately $3.8 million.
+Overview
+of the 2026 Three- and Six- Month Interim Period Financial Comparison
+Consolidated
+Results of Operations
+Comparison
+of the Three Months Ended June 30, 2026 and 2025
+To
+facilitate review of our discussion and analysis, the following table sets forth our financial results for the periods indicated. All
+information is derived from the Unaudited Condensed Consolidated Statements of Operations for the three months ended June 30, 2026 and
+2025, respectively.
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in
+US Dollars)
+Revenues
+Total revenues increased $308,154, or approximately
+7% during the three months ended June 30, 2026, as compared to the prior year period. As a component of our single reportable business
+segment, revenues generated from our “Restaurant including food and beverage revenue, net” increased $647,518 primarily due
+to the opening of Roth’s Sea & Steak in November 2025 and it being in operation during the 2026 period, partially offset by
+decreased revenue resulting from the closure of Notes Eatery in July 2025 during the three-month period. “Event center ticket and
+fees revenue, net” decreased $396,166 primarily due to a decrease in the total number of shows at the Ford Amphitheater during the
+period when compared to the prior year, which resulted in lower amphitheater net profits shared with AEG Presents, and weaker event ticket
+sales at BBP CO during the three-month period. The Company expects its amphitheater net profits to strengthen during the remainder of
+2026, driven by continued operations of the Ford Amphitheater throughout its season. “Rental and sponsorship revenue, net”
+increased $56,802 primarily due to stronger venue rentals at BBP CO during the three-month period.
+Operating
+Costs
+Food
+and Beverage Costs
+. Our F&B costs increased $193,565 during the three months ended June 30, 2026, as compared to the prior year
+period, primarily driven by an increase in sales volumes and use of premium ingredients used in our Fine Dining & Hospitality Collection
+venues (Roth’s Sea & Steak and SHC), which opened in the second half of 2025.
+Event
+Center Costs
+. Our event center costs increased $21,507 during the three months ended June 30, 2026, as compared to the prior year
+period. primarily due to an increase in parking lot costs for the Ford Amphitheater, partially offset by decreased talent costs, which
+can fluctuate based on negotiated contracts and the number of events.
+Labor
+Costs
+. Our labor costs increased $504,489 during the three months ended June 30, 2026, as compared to the prior year period, primarily
+due to the hiring of a new management team, kitchen staff, and waiting staff for Roth’s Sea & Steak, which opened in November
+2025 and was in operation during the 2026 period (but not the 2025 period). This increase was partially offset by the elimination of
+labor costs following the closure of Notes Eatery in July 2025.
+Rent
+Costs
+. Our rent costs increased $66,111 during the three months ended June 30, 2026, as compared to the prior year period, primarily
+due to increases in annual base rents, property taxes, and insurance expenses across several locations and rent for a leased parking
+lot in Colorado Springs, Colorado, which commenced in November 2025.
+General and administrative
+. Our general
+and administrative expenses increased $1,629,355 during the three months ended June 30, 2026, as compared to the prior year period, primarily
+due to our expansion efforts into additional municipalities and marketing efforts to increase sales of interests in our Luxe FireSuites
+offerings. These expansion plans and promotional efforts resulted in increased travel, business development and promotional efforts, staff
+recruitment and development of such staff, along with compensation, legal, auditing, tax, other professional services, and general working
+capital expenses. We anticipate these costs to continue to increase period over period as we continue to expand our teams into new markets,
+continue construction of its entertainment campuses and seek to grow our balance sheet over the next several years.
+Equity compensation
+. Equity compensation
+decreased $101,241 during the three months ended June 30, 2026, as compared to the prior year period, primarily due to a decrease in the
+weighted average fair value of issued warrants and stock options and lower volatility assumptions. Additionally, 2.5 million options were
+granted in January 2025 to the Chairman & CEO of Venu and a related party regarding their personal guaranty of the McKinney purchase
+of land that immediately vested.
+Depreciation and Amortization Costs
+. Depreciation and amortization
+costs increased $1,026,319 during the three months ended June 30, 2026, as compared to the prior year period, primarily due to assets
+purchased for Fine Dining & Hospitality Collection venues (Roth’s Sea & Steak and SHC) in 2025, the purchase of a corporate
+aircraft in September 2025 which resulted in a full quarter of depreciation in the 2026 period, and the purchase of a building in Centennial,
+Colorado which began depreciating in February 2026.
+Donation of EIGHT Brewing investment
+. Donation expense increased
+$1,999,999 during the three months ended June 30, 2026, as compared to the prior year period, due to the charitable contribution of the
+Company’s investment in EIGHT Brewing to the Foundation.
+Interest Expense, net
+. Interest expense,
+net increased $2,440,777 during the three months ended June 30, 2026, as compared to the prior year period, primarily due to obligations
+owed to triple net lease interest holders (being to Luxe FireSuite holders who leased their right in a suite back to us) beginning in
+the third quarter of 2025 (See the discussion in Note 5 related to
+NNN FireSuite Promissory Notes Receivable)
+. The increase was
+also driven by higher interest expense and amortization of debt discount fees associated with these obligations in 2026 compared to 2025.
+Other
+Income.
+Other income increased $42,875 during the three months ended June 30, 2026, as compared to the prior year, primarily due
+to the discontinuation of the Sunset at Mustang Creek LLC operations, which we decided not to pursue in 2025.
+Comparison
+of the Six Months Ended June 30, 2026 and 2025
+To
+facilitate review of our discussion and analysis, the following table sets forth our financial results for the periods indicated. All
+information is derived from the Unaudited Condensed Consolidated Statements of Operations for the six months ended June 30, 2026 and
+2025, respectively.
+VENU
+HOLDING CORPORATION AND SUBSIDIARIES
+UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in
+US Dollars)
+Revenues
+Total revenues increased $560,482, or approximately
+7% during the six months ended June 30, 2026, as compared to the prior year period. As a component of our single reportable business segment,
+revenues generated from our “Restaurant including food and beverage revenue, net” increased $1,026,988 primarily due to the
+opening of Roth’s Sea & Steak in November 2025, partially offset by decreased revenue resulting from the closure of Notes Eatery
+in July 2025 and softer sales for BBST GA. “Event center ticket and fees revenue, net” decreased $521,794 primarily due to
+a decrease in the number of shows during the 2026 period when compared to the 2025 period, which resulted in lower amphitheater net profits
+shared with AEG Presents, and weaker event ticket sales at BBP CO and BBP GA during the six-month period. The Company expects its amphitheater
+net profits to strengthen during the remainder of 2026, driven by continued operations of the Ford Amphitheater throughout its season.
+“Rental and sponsorship revenue, net” increased $55,288 primarily due to stronger venue rentals at BBP CO during the six-month
+period.
+Operating
+Costs
+Food
+and Beverage Costs
+. Our F&B costs increased $339,416 during the six months ended June 30, 2026, as compared to the prior year
+period, primarily driven by an increase in sales volumes and use of premium ingredients used in our Fine Dining & Hospitality Collection
+venues (Roth’s Sea & Steak and SHC), which opened in the second half of 2025.
+Event
+Center Costs
+. Our event center costs increased $15,158 during the six months ended June 30, 2026, as compared to the prior year
+period. primarily due to an increase in parking lot costs for the Ford Amphitheater, partially offset by decreased talent costs, which
+can fluctuate based on negotiated contracts and the number of events.
+Labor
+Costs
+. Our labor costs increased $1,024,287 during the six months ended June 30, 2026, as compared to the prior year period, primarily
+due to the hiring of a new management team, kitchen staff, and waiting staff for Roth’s Sea & Steak, which opened in November
+2025.
+Rent
+Costs
+. Our rent costs increased $183,446 during the six months ended June 30, 2026, as compared to the prior year period, primarily
+due to increases in annual base rents, property taxes, and insurance expenses across several locations and rent for a leased parking
+lot in Colorado Springs, Colorado, which commenced in November 2025 after a sale leaseback transaction for that property.
+General
+and administrative
+. Our general and administrative expenses increased $2,433,199 during the six months ended June 30, 2026, as compared
+to the prior year period, primarily due to our expansion efforts into additional municipalities and marketing efforts to increase sales
+of interests in our Luxe FireSuites offerings. These expansion plans and promotional efforts resulted in increased travel,
+business development and promotional efforts, staff recruitment and development of such staff, along with compensation, legal, auditing,
+tax, other professional services, and general working capital expenses. We anticipate these costs to continue to increase period over
+period as we continue to expand our teams into new markets, continue construction of its entertainment campuses and seek to grow our
+balance sheet over the next several years.
+Equity
+compensation
+. Equity compensation decreased $9,485,929 during the six months ended June 30, 2026, as compared to the prior year
+period, primarily due to a decrease in the weighted average fair value of issued warrants and stock options and lower volatility
+assumptions. Additionally, 2.5 million options were granted in January 2025 to the Chairman and CEO of Venu and a related party in
+connection with their personal guaranty of the McKinney land purchase, which vested immediately. During the second quarter of 2025,
+4.3 million options and warrants were issued, of which 3.4 million vested immediately. Although a total of 8.4 million options and
+warrants were issued during the second quarter of 2026, 5.0 million of these instruments were not accounted for as equity
+instruments and therefore did not result in equity compensation expense, while most of the remaining options and warrants vest over
+a two- to four-year period.
+Depreciation
+and Amortization Costs
+. Depreciation and amortization costs increased $2,026,747 during the six months ended June 30, 2026, as compared
+to the prior year period, primarily due to assets purchased for Fine Dining & Hospitality Collection venues (Roth’s Sea &
+Steak and SHC) in 2025, the purchase of a corporate aircraft in September 2025 which resulted in a full six months of depreciation in
+2026, and the purchase of a building in Centennial which began depreciating in February 2026.
+Donation of EIGHT Brewing investment
+.
+Donation expense increased $1,999,999 during the six months
+ended June 30, 2026, as compared to the prior year period, due to the charitable contribution of the Company’s investment
+in EIGHT Brewing to the Foundation.
+Interest Expense, net.
+Interest expense,
+net increased $4,496,624 during the six months ended June 30, 2026, as compared to the prior year period, primarily due to obligations
+owed to triple net lease interest holders (being to Luxe FireSuite holders who leased their right in a suite back to us) beginning in
+the third quarter of 2025 (See the discussion in Note 5 related to
+NNN FireSuite Promissory Notes Receivable)
+. The increase was
+also driven by higher interest expense and amortization of debt discount fees associated with these obligations in 2026 compared to 2025.
+Other
+Income.
+Other income increased $31,170 during the six months ended June 30, 2026, as compared to the prior year period, primarily
+due to the discontinuation of the Sunset at Mustang Creek LLC operations, which we decided not to pursue in 2025.
+Factors
+that May Influence Future Results of Operations
+Impact
+of Macroeconomic Conditions
+We
+continue to monitor the impact of macroeconomic conditions, including inflationary pressure, potential for recession, instability of
+capital markets, consumer-spending habits, costs of goods and construction materials, changes to fiscal and monetary policies, interest
+rate fluctuations, access to capital, the favorability of lending terms, prolonged supply-chain constraints, and geopolitical conflicts
+and trends, on all aspects of our business, including how those factors may impact our operations, workforce, suppliers, ability to raise
+additional capital to fund operating and capital expenditures, sales, and profitability.
+The
+extent of the impact of these factors on our business will depend on future developments that are highly uncertain and cannot be confidently
+predicted at this time. To date, these factors have not had a material impact to our results of our operations or development efforts.
+However, if macroeconomic conditions deteriorate or there are unforeseen developments, our results of operations, financial condition,
+and cash flows may be adversely affected.
+Inflation
+We
+continue to monitor the impacts of inflation on our business and will continue to attempt to proactively seek cost-saving measures
+and negotiate with municipalities to purchase land without being burdened by increased borrowing costs and unfavorable lending
+terms.
+Liquidity
+and Capital Resources
+We have devoted substantially all our
+efforts to developing and implementing our business plan to market expansion, growing staff, raising capital, opening and operating
+our restaurants and event venues in Colorado and Georgia, planning venues in new markets, such as Oklahoma and Texas, and exploring
+additional markets. While our current primary focus is on the operation of our existing venues and on our development projects, our
+secondary focus is the development of venues in other prospective markets. While we undergo the construction of our in development
+and planned venues during the remainder of 2026 and into 2027 in Colorado, Oklahoma and Texas, we do not anticipate operational
+profits until we open and operate additional venues.
+We had an accumulated deficit of $123,098,229
+and $91,454,930 as of June 30, 2026 and December 31, 2025, respectively, and incurred net losses of $34,177,639 and $31,736,344 during
+the six months ended June 30, 2026 and 2025, respectively. We believe the net loss in the 2026 period was largely due to our efforts to
+continue to implement our business plan, grow our staff, raise capital, acquisition and construction costs for our in-development venues
+in new markets, such as Oklahoma and Texas, along with increased marketing efforts to increase sales of interests in our Luxe FireSuites
+portfolio offerings.
+We
+grew property and equipment, net, to $446,239,065 as of June 30, 2026 from $305,947,277 as of December 31, 2025, which represents an increase
+of $140,291,788 or 46%.
+The
+Company believes that cash on hand from its prior equity offerings, revenues from operating venues and restaurants in Colorado Springs,
+Colorado and Gainesville, Georgia, on-going sales of interests in FireSuites, the operations of Ford Amphitheater 2026, including Roth’s
+Sea & Steak and Brohan’s, the anticipated opening of Regent Bank Amphitheater in Broken Arrow, OK in Fall 2026, and debt facilities
+the Company closed on subsequent to June 30, 2026 and expects to close on later in 2026, and potentially other additional capital raising
+and debt financing transactions or the use of its at the market sales agreement from time to time, will allow the Company to continue
+its business operations for at least 12 months from the date of this Quarterly Report.
+Equity
+and Debt Financing Strategies
+In April 2024, the Company executed a term sheet
+with the City of El Paso, Texas, and then later in June 2024 and July 2024 entered into a Chapter 380 Economic Development Program Agreement
+(the “
+Chapter 380 Agreement
+”), a Purchase and Sale Agreement, and related transaction documents (collectively, the
+“
+Definitive El Paso Agreements
+”). On May 13, 2025, the Company (through a wholly owned subsidiary) acquired an approximately
+20-acre tract of land where it will develop The Sunset Amphitheater in El Paso, Texas pursuant to the Definitive El Paso Agreements. Under
+the Definitive El Paso Agreements, the City of El Paso provided various incentives to the Company related to the development of The Sunset
+El Paso including contributing cash towards Venu’s development costs by issuing an eight-year, no-interest, forgivable loan to Venu
+(the “
+El Paso Loan
+”) in the principal amount of $8,000,000 funded by the Texas Economic Development Fund. If the Company
+completes construction of The Sunset El Paso within 36 months from the date Venu receives all government authorizations required to develop
+and construct the amphitheater (such process, “
+Entitlement
+”) and hosts a minimum of 25 events per year at The Sunset
+El Paso in years 3-5 of the rebate period, the El Paso Loan will be forgiven.
+On
+May 27, 2025, for the purpose of funding the completion of a development adjacent to the Ford Amphitheater, the Company entered into
+Credit Agreement with Pueblo Bank & Trust, as lender (the “
+Lender
+”) for a draw down term loan (the “
+Construction
+Loan
+”). The Construction Loan accrues interest at 8.50% and has a term of seventy months, maturing on March 27, 2031 (the “
+Maturity
+Date
+”). Beginning on the closing date, and continuing until no later than May 27, 2026 (the “
+Draw Period
+”),
+assuming that there has not been an “Event of Default” (as defined in the Credit Agreement) and that the Company has complied
+with all requirements under the documents and agreements governing the Construction Loan, the Company may from time-to-time request advances
+under the Construction Loan not to exceed an aggregate amount of $6.0 million. Obligations under the Construction Loan are secured under,
+and by, a deed of trust, various assets of the Company pledged pursuant to a security agreement, together with an assignment of leases
+and rents, and personal guaranties extended by certain Company affiliates. The outstanding balance as of June 30, 2026 and December 31,
+2025 was $5,936,794 and $5,937,119, respectively. This mortgage is collateralized by the SHC land and buildings. This mortgage is personally
+guaranteed by the Company’s Chairman and CEO.
+In
+April 2025, the Company entered into a Purchase and Sale Agreement to acquire certain real property in Centennial, Colorado (the “
+Centennial
+Property
+”) owned by Old Mill, LLC (“
+Old Mill
+”), which is partially owned by a Board member of the Company.
+On February 3, 2026, the Company entered into an Assignment of Purchase and Sale Agreement with Hall at Centennial LLC, a subsidiary
+of the Company (“
+Hall at Centennial
+”), and Old Mill. Following such assignment, on February 3, 2026, Hall at Centennial
+closed on the purchase of the Centennial Property from Old Mill pursuant to the Purchase and Sale Agreement. The purchase price of approximately
+$12,612,000 for the Centennial Property was paid through a combination of cash and a promissory note in the principal amount of approximately
+$7,758,000 (the “
+Old Mill Note
+”). The Old Mill Note bears interest at 4.5% per annum and matures February 1, 2027.
+Interest accrues during the first six months and becomes due and payable on August 1, 2026, in cash or shares of Common Stock. On August
+3, 2026, the Company issued 76,234 shares of Common Stock to satisfy the accrued interest obligation.
+In
+connection with the closing of the acquisition, Hall at Centennial also entered into a bridge loan (the “
+Loan
+”)
+evidenced by a promissory note in the principal amount of $4,350,000, which bears interest at 7.75% per annum and matures in early
+May 2026. The proceeds of the Loan were used to satisfy the cash closing delivery obligation for the acquisition of the Centennial
+Property (as well as to pay off Old Mill’s existing loan secured by the Centennial Property and certain outstanding taxes). On
+March 11, 2026, the $4,350,000 principal amount of the bridge loan, including accrued but unpaid
+interest, was fully repaid.
+Cash
+Flows
+The
+following information reflects cash flows for the periods presented:
+Net
+Cash Used in Operating Activities
+Net cash used in operating activities
+decreased $2,082,795 during the six months ended June 30, 2026, as compared to the prior year period, primarily due to decreases in
+equity issued for interest on debt, equity-based compensation, noncash interest and debt discount, and accrued expenses, offset by
+an increase in accounts payable and the donation of EIGHT Brewing investment to the Foundation.
+Net
+Cash Used in Investing Activities
+Net cash used in investing activities
+increased $93,658,790 during the six months ended June 30, 2026, as compared to the prior year period, due to an increase
+in purchases of property and equipment, partially offset by a decrease in our investment in EIGHT Brewing resulting from the donation of the investment
+to the Foundation.
+Net
+Cash Provided by Financing Activities
+Net cash provided by financing activities increased
+$67,090,763 during the six months ended June 30 2026, as compared to the prior year period, primarily due to the issuance of Common Stock,
+Common Warrants, and Pre-Funded Warrants through a registered offerings during the first half of 2026, and sales under our ATM program
+in June 2026, partially offset by an increase in promissory note payments.
+Significant
+Accounting Policies and Use of Estimates
+The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management
+to make significant judgments and estimates that affect the reported amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the financial statements and the reported amounts of expenses during the reporting period. Management
+bases these significant judgments and estimates on historical experience and other assumptions which it believes to be reasonable based
+on information presently available. Actual results could differ from those estimates under different assumptions, judgments, or conditions.
+Significant
+estimates made by management include, but are not limited to: economic lives of leased assets; impairment assessment of long-lived assets;
+depreciable lives of property, plant and equipment; useful lives of intangible assets; accruals for contingencies including tax contingencies;
+valuation allowances for deferred income tax assets; estimates of fair value of identifiable assets and liabilities acquired in business
+combinations; initial measurement (and any subsequent remeasurement) of operating right-of-use assets and lease liabilities, including
+the discount rate used in the present value calculation of future payments, and estimates of fair value used in the private stock valuations
+used for equity-based compensation of warrants and stock options.
+We
+consider the following accounting policies to be critical because of their complexity and the high degree of judgment involved in maintaining
+them.
+Revenue
+Recognition
+We
+recognize revenue in accordance with the FASB
+ASC
+606,
+Revenue from Contracts with Customers
+, which requires us to allocate
+the transaction price received from our customers to separate and distinct performance obligations and to recognize revenue upon the
+satisfaction of our performance obligations. We recognize revenue from our sale to customers of F&B products at our restaurants when
+the F&B products are transferred to the customer. We recognize revenue from the rental of our venues and from tickets and related
+fees for concerts or shows performed at our venues when the event, concert, or show occurs. Amounts collected from sponsorship agreements,
+which are not related to a single event, are classified as deferred revenue and recognized over the term of the agreements as the benefits
+are provided to the sponsors. Amounts collected in advance of the event are recorded as deferred revenue until the event occurs. We recognize
+naming rights and sponsorship revenue over the life of the naming rights and sponsorship agreements.
+We
+contracted with AEG Presents to operate Ford Amphitheater in Colorado Springs, Colorado, which opened in August 2024. Within the Company’s
+Amphitheater Operations, its pre-sells naming rights to its amphitheater by partnering with industry-leading brands under naming-rights
+agreements. The Company generates net profits that are split with AEG Presents through: (i) ticket sales, fees and rebates on tickets
+for concerts and events held at Ford Amphitheater; (ii) parking fees; (iii) venue rentals, which may occur for a variety of corporate
+and personal events; (iv) food and beverage sold at the shows and events; and (v) sponsorship sales, which allow brands to advertise
+at the Company’s venue by showcasing their names and logos on a variety of sponsorship inventory curated for the venue and at each
+event the Company promotes and hosts, all of which are offset by operating expenses, artist expenses, supplies, security, utilities,
+insurance, overhead, etc. within the Company’s net amphitheater revenue recognition from AEG Presents.
+Investments
+in Related Parties
+We
+have NCI investments in related parties. We account for certain of our investments in related parties using a practical expedient to
+measure those investments that do not have a readily determinable fair value in accordance with ASC 321,
+Investments — Equity
+Securities
+; ASC 325,
+Investments — Other
+; ASC 810,
+Consolidation
+; and ASC 820,
+Fair Value Measurement
+.
+Our investments in related parties are initially recognized at cost, and any income or loss resulting from such investments is recognized
+on our Unaudited Condensed Consolidated Statements of Operations, net of operating expenses. The carrying value of our related-party
+investments are assessed for indicators or impairment at each balance-sheet date, such that each investment is derecognized upon the
+sale or impairment of our interest in the investment. See “Non-Controlling Interest and Variable Interest Entities” for further
+discussions of the entities that are majority-owned subsidiaries and VIEs. Investments for which the Company exercises significant influence
+but does not have control are accounted for under the equity method.
+The Company owns 526,166 Class B non-voting units
+or 1.2% of Roth Industries, LLC (“
+Roth Industries
+”). The Company’s Chairman and CEO is also the founder, Chairman
+and a significant equity holder of Roth Industries. Mitchell Roth, a member of the Company’s Board of Directors, is also the CEO,
+President, and a significant equity folder of Roth Industries. Certain of the Company’s officers and directors are also minority
+equity owners of Roth Industries. The Company currently accounts for this investment based on ASC 325,
+Investments – Other
+,
+under the cost method.
+The
+Company invested in Culinova, Inc. (formerly known as Innovate CPG, Inc.) for a total 526,166 shares (and paid a total purchase price
+of $5,261.66) in May 2025. As an equity holder of Roth Industries, the Company was afforded the right to acquire shares of Culinova,
+Inc. The Company’s Chairman and CEO is a director of Culinova, Inc. and Mitchell Roth, the Chairman and CEO. The Company’s
+officers and directors are also minority equity owners of Culinova, Inc. Certain of the Company currently accounts for this investment
+based on ASC 325,
+Investments – Other
+, under the cost method.
+Roth
+Industries, LLC (“
+Roth Industries
+”), a related party, pays Venu licensing fees pursuant to a license granted by Venu
+to Roth Industries to use the trademark, tradename, and likeness of the Bourbon Brothers brand, which Venu exclusively owns, on packaged
+and prepared food products sold in retail grocery stores and other retail outlets where food products are sold. JW Roth, Venu’s
+Chairman and CEO and a principal shareholder of Venu, is also the founder and Chairman of Roth Industries and holds an approximate 16.4%
+membership interest in Roth Industries. Mitchell Roth, a director of Venu, is also the CEO and President of Roth Industries and holds
+an approximate 14.7% membership interest in Roth Industries. Certain other Company officers and directors hold an interest in Roth Industries.
+Leases
+Leases
+are accounted in accordance with ASC 842,
+Leases
+, pursuant to which leases are classified as either operating or financing leases
+and recorded in our Consolidated Balance Sheets as both a right-of-use asset and lease liability, calculated by discounting fixed lease
+payments over the lease term, including any renewal options that are likely to be exercised, at the rate set forth or implied in the
+lease. In calculating the right-of-use asset and lease liability, we elect to combine lease and non-lease components as permitted under
+ASC 842. As an accounting-policy election, we exclude short-term leases having initial terms of 12 months or less and expense payments
+on those short-term leases as they are made.
+For
+sale-leaseback arrangements, we evaluate whether the arrangement qualifies as a sale and leaseback under ASC 842. If the arrangement
+qualifies as a sale, then we derecognize the asset, recognize any resulting gain or loss on the sale, and account for the lease based
+on its classification under ASC 842. If the arrangement does not qualify as a sale, we evaluate whether the transaction should be accounted
+for as a financing arrangement. In such cases, the asset is not derecognized and, accordingly, no gain or loss is recognized on the transfer.
+The net consideration received is recorded as a financing liability, measured based on the relative fair value allocation of proceeds
+using the present value of the fixed payments over the financing term, including any renewal options that are reasonably certain to be
+exercised, at the rate implicit in the lease. Each lease payment is allocated between interest expense and a reduction of the financing
+liability using an imputed interest rate. Lease expense or a right-of-use asset is not recognized during the financing period, because
+the arrangement is accounted for as a financing transaction rather than a lease. The underlying asset remains on our balance sheet and
+is continuously evaluated for impairment throughout the term of the financing arrangement.
+Warrants
+and Stock Options
+During
+the six months ended June 30, 2026, the Company granted a total of 34,443,250 warrants and stock options, with (i) warrants exercisable
+to acquire 5,000,000 shares of Common Stock issued under the terms of the transaction documents for the June 2026 sale lease-back transaction
+in connection with the DST Property, (ii) 21,562,500 common warrants and 4,410,000 pre-funded warrants issued
+as part of the March 2026 offering to finance the construction of multi-seasonal amphitheaters, and (iii) 3,470,750 stock options granted
+to employees and directors.
+As
+of June 30, 2026, there was a total of 39,492,927 warrants and stock options exercisable with an aggregate intrinsic value of $875,475.
+For the total warrants and stock options outstanding of 44,180,367 as of June 30, 2026, the aggregate intrinsic value was $880,362. As
+of June 30, 2026, there was $12,524,647 of unrecognized compensation cost related to non-vested warrants.
+The
+equity-based compensation cost, related to warrants and stock options, are included as a charge to operating expenses in the Unaudited
+Condensed Consolidated Statements of Operations. The equity-based compensation cost totaled $1,782,521 and $3,738,453 for the three and
+six months ended June 30, 2026, respectively, and $1,883,762 and $13,224,382 for the three and six months ended June 30, 2025, respectively.
+As of June 30, 2026 and 2025, the equity-based compensation cost is expected to be recognized over a weighted-average period of 4.87
+years and 4.63 years, respectively.
+Non-Controlling
+Interest and Variable Interest Entities
+The
+non-controlling interests (“
+NCIs
+”) represent capital contributions and distributions, income and loss attributable
+to the owners of the Company’s less-than-wholly-owned consolidated entities and are reported in equity. NCIs are evaluated by the
+Company and are shown as permanent equity. Net income (loss) attributable to NCIs reflects the portion of the net income (loss) of consolidated
+entities applicable to the holders of the NCIs in the accompanying Unaudited Condensed Consolidated Statements of Operations. The net
+income (loss) attributable to NCIs is classified in the Unaudited Condensed Consolidated Statements of Operations as part of consolidated
+net income (loss) and deducted from total consolidated net income (loss) to arrive at the net income (loss) attributable to the Company.
+The Company has evaluated its investments in unconsolidated entities to determine if they qualify as variable interest entities (“
+VIEs
+”).
+The Company monitors these investments and, to the extent it has determined that it owns a majority of the controlling class of securities
+of a particular entity, analyzes the entity for potential consolidation. The Company will continually analyze investments, including
+when there is a reconsideration event, to determine whether such investments are VIEs and whether such VIE should be consolidated. These
+analyses require considerable judgment in determining the primary beneficiary of a VIE and could result in the consolidation of an entity
+that would otherwise not have been consolidated or the non-consolidation of an entity that would have otherwise been consolidated.
+The
+Company accounts for the change in its ownership interest while it retains its controlling financial interest in its majority-owned subsidiaries
+or VIEs as equity transactions. The carrying value of the NCI should be adjusted to reflect the change in the Company’s ownership
+interest in the subsidiary, and differences between the fair value of the consideration received and the amount by which the NCI is adjusted
+should be recognized in equity attributable to the Company. This may be shown as NCI and as additional paid in capital to the Company,
+which, when combined, reconcile to the non-controlling issuance of shares as shown in the Unaudited Condensed Consolidated Statements
+of Changes in Stockholders’ Equity.
+If
+a change in ownership of a consolidated subsidiary results in a loss of control or deconsolidation, any retained ownership interests
+are remeasured with the gain or loss reported to net earnings. These may be majority-owned subsidiaries or variable interest entities
+that the Company has 100% voting control of.
+During
+2025, the Company bought 5,100,000 membership units of SHC. This purchase transaction did not result in a change in control of SHC. In
+June 2026, the Company, through the Trust, redeemed 100% of the beneficial interests in the Trust. This transaction did not result in
+a change in control of the Trust.
+The
+following table shows the classification and carrying value of assets and liabilities of consolidated VIEs as of June 30, 2026 and December
+31, 2025:
+The
+following table is a summary of the Company’s non-controlling interests for the three and six months ended June 30, 2026 and 2025:
+Off-Balance
+Sheet Arrangements
+We
+do not engage in transactions that generate relationships with unconsolidated entities or financial partnerships, such as entities often
+referred to as structured finance or special purpose entities, as a part of our ongoing business. Accordingly, we did not have any off-balance
+sheet arrangements during any of the periods presented.
+Stockholders’
+Equity
+On September 6, 2024, Venu amended and restated
+is Articles of Incorporation to change its legal name to “Venu Holding Corporation” and cause all outstanding shares of its
+previously outstanding Class C Common Stock and Class D Common Stock to be converted on a one-for-one basis to shares of “Common
+Stock.” As of the filing of the Amended and Restated Articles of Incorporation, the Company’s authorized capital does not
+include Class A Voting Common Stock. The authorized capital stock of the Company consists of 144,000,000 shares of Common Stock, 1,000,000
+shares of Class B Non-Voting Common Stock and 5,000,000 shares of Preferred Stock.
+Except
+for any differences in voting privileges or in the contractual rights or limitations assigned or afforded to a specific series of stock
+in connection with a merger, acquisition, or strategic transaction, the shares of Common Stock and Class B Non-Voting Common Stock have
+the same preferences, limitations, and relative rights. Each holder of Common Stock is entitled to one vote per share of Common Stock
+held of record by such holder on all matters on which shareholders generally are entitled to vote. Except as required by law, holders
+of the Class B Non-Voting Common Stock have no voting power with respect to their shares of Class B Non-Voting Common Stock, and the
+shares of Class B Non-Voting Common Stock are not entitled to vote on any matter submitted to the shareholders.
+On
+October 28, 2025, the Company’s shareholders approved an amendment to the Venu Holding Corporation Amended and Restated 2023 Omnibus
+Incentive Compensation Plan to increase the number of shares of the Company’s Common Stock reserved under the plan from 2,500,000
+shares to 7,500,000 shares.
+In connection with the Partner Agreement dated
+November 6, 2025 that the Company entered into with one of its brand partners, the Company issued 77,479 shares of Common Stock to the
+brand ambassador in August 2026.
+In
+connection with the LOI Amendment dated January 5, 2026, the Company issued 333 shares of Series B Preferred Stock to Aramark in exchange
+for cash payment of $4.995 million.
+Quantitative
+and Qualitative Disclosures About Market Risk
+We
+are a smaller reporting company as defined by Item 10 of Regulation S-K and are not required to provide the information otherwise required
+under this item.
+JOBS
+Act Accounting Election
+In
+April 2012, the Jumpstart Our Business Startups Act of 2012 (the “
+JOBS Act
+”), was enacted. Section 107 of the JOBS
+Act provides that an “emerging growth company” (an “
+EGC
+”) may take advantage of the extended transition
+period provided in Section 7(a)(2)(B) of the Securities Act, for complying with new or revised accounting standards. As an EGC under
+the JOBS Act, the extended transition period provided in Section 7(a)(2)(B) of the Securities Act allows us to delay the adoption of
+certain accounting standards until those standards would otherwise apply to private companies. We have elected to use the extended transition
+period for complying with new or revised accounting standards that have different effective dates for public and private companies until
+the earlier of the date we (i) are no longer an EGC, or (ii) affirmatively and irrevocably opt out of the extended transition period
+provided in the JOBS Act. As a result, our financial statements may not be comparable to companies that comply with new or revised accounting
+pronouncements as of public-company effective dates.
+Other
+exemptions and reduced reporting requirements under the JOBS Act for EGCs include presentation of only two years of audited financial
+statements in a registration statement for an initial public offering, an exemption from the requirement to provide an auditor’s
+report on internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act, an exemption from any requirement
+that may be adopted by the Public Company Accounting Oversight Board, along with less extensive disclosure about our executive compensation
+arrangements. We plan to take advantage of these reduced disclosure requirements and exemptions until we are no longer considered an
+EGC.
+Emerging
+Growth Company Status
+We
+are a “smaller reporting company” as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”) and are therefore subject to reduced public company reporting requirements. As a smaller reporting company, pursuant to Item
+305(e) of Regulation S-K promulgated under the Securities Act, we are not required to provide the information required by this Item 3.
+Evaluation
+of Disclosure Controls and Procedures
+As
+of June 30, 2026, Venu’s Chief Executive Officer and Chief Financial Officer evaluated the effectiveness of Venu’s “disclosure
+controls and procedures,” as such term is defined under Rule 13a-15(e) and Rule 15d-15(e) promulgated under the Exchange Act, and
+concluded that the disclosure controls and procedures were not effective as of June 30, 2026 due to the material weaknesses in Venu’s
+internal control over financial reporting described in our Annual Report on Form 10-K for the year ended December 31, 2025.
+The
+material weaknesses in our internal control over financial reporting relate to the fact that Venu did not have the necessary business
+processes and related internal controls fully implemented to provide reasonable assurance regarding the reliability of the financial
+reporting and the preparation of our financial statements in accordance with U.S. GAAP. Venu has added and continues to evaluate the
+need for additional controls over the accounting and financial reporting requirements, which have been implemented within the reporting
+period but has yet to be effective for most of the period beginning October 1, 2025. The material weaknesses will be considered remediated
+when such time as management designs and implements effective controls that operate for a sufficient period of time and has concluded,
+through testing, that these controls are effective.
+Remediation
+Plan for Material Weaknesses
+As
+of June 30, 2026, Venu has implemented controls that Venu believes will remediate the identified material weaknesses. While certain controls
+were fully operational for part of the year ended December 31, 2025, certain control implementations are still ongoing, with significant
+remediation efforts expected to be finalized by December 31, 2026. These efforts focus on enhancing financial oversight, improving the
+accuracy and compliance of financial operations, and strengthening our internal controls over financial reporting. The Company continues
+to monitor the effectiveness of these controls to ensure sustained compliance.
+Key
+remediation actions included:
+Despite
+these material weaknesses, we believe that the financial information presented in this report is materially correct and in accordance
+with U.S. GAAP. We are committed to ongoing monitoring and will continue reporting progress to the audit committee. However, full remediation
+of these material weaknesses requires the newly implemented controls to operate effectively over time, and we cannot provide assurance
+that additional weaknesses will not be identified in the future.
+If
+Venu is unable to successfully complete its remediation efforts or favorably assess the effectiveness of its internal control over financial
+reporting, Venu’s operating results, financial position, stock price, and ability to accurately report its financial results and
+timely file its SEC reports could be adversely affected.
+Changes
+in Internal Control Over Financial Reporting
+During
+the quarter ended June 30, 2026, there has been no change in our internal control over financial reporting that has materially affected,
+or is reasonably likely to materially affect, our internal control over financial reporting.
+Inherent
+Limitations on Effectiveness of Controls and Procedures
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f)
+and 15d-15(f) under the Exchange Act, under the supervision of our Audit Committee. Our internal control over financial reporting is
+designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with GAAP.
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Therefore, even those
+systems determined to be effective can provide only reasonable assurance of achieving their control objectives.
+PART
+II
+From
+time to time, the Company is involved in various disputes and litigation matters that arise in the ordinary course of business.
+On
+January 21, 2026, certain of the Company’s subsidiaries were named as defendants in a lawsuit filed in the El Paso County District
+Court of Colorado by plaintiffs seeking the abatement and permanent injunction of alleged unlawful noise pollution at Ford Amphitheater
+based on allegations that the venue emits unlawful noise pollution in violation of state law.
+Bailey. v. Notes CS I, DST
+, No.
+2026CV30179 (El Paso Cnty. Dist. Ct. filed Jan. 21, 2026). Asserting that the plaintiffs’ complaint fails to measure noise in accordance
+with applicable state law, the defendant subsidiaries filed a motion to dismiss the lawsuit on March 2, 2026, which the El Paso County
+District Court denied. The defendant subsidiaries filed an answer on June 23, 2026 and intend to vigorously defend against all claims.
+As a smaller reporting company, we are not required
+to provide disclosure pursuant to this Item 1A. However, in addition to other information set forth in this Quarterly Report, you should
+carefully consider the “Risk Factors” discussed in our Annual Report on Form 10-K for the year ended December 31, 2025 (the
+“Annual Report”), subsequent reports we have filed with the SEC since that date, and elsewhere in this Quarterly Report for
+a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the
+forward-looking statements contained in this Quarterly Report. Additional risks and uncertainties not currently known to us or that we
+currently deem to be immaterial might materially adversely affect our actual business, financial condition, and operating results.
+Among the risk factors identified in our
+Annual Report is a risk factor entitled “
+Venu’s debt obligations may adversely
+affect cash flow and impose restrictions on Venu’s ability to operate its business
+” and a risk factor entitled
+“
+Venu is involved in a number of related-party transactions.
+” During the three months ended June 30, 2026, and
+subsequently, the Company incurred additional indebtedness in the form of promissory note receivables related to its NNN FireSuite
+offerings (described in this Quarterly Report), the closing on the Bridge Loan from Ryan, LLC in July 2026 and the issuance of the
+Debentures on July 31, 2026 (as described in Note 17 in this Quarterly Report, and other reports filed by the Company with the SEC).
+In addition, the sale lease-back arrangement completed on June 6, 2026 for land underlying the Ford Amphitheater involved a related
+party. The risk factors identified in our Annual Report, including those identified in this Item 1A, should be read to include the
+risks associated with transactions and events that occurred during and subsequent to the period ended June 30, 2026.
+Unregistered
+Sales of Equity Securities
+Except as set forth below, no securities were
+sold during or subsequent to the quarter ended June 30, 2026, or through the date of filing of this Quarterly Report, that were not registered
+under the Securities Act of 1933, as amended (the “Securities Act”), and were not previously disclosed in a report filed by
+the Company with the SEC.
+Pursuant
+to the Old Mill Note dated February 3, 2026, the Company elected to satisfy the first six months of accrued interest payable to Old Mill
+through the issuance of Company common stock. The number of shares of Common Stock issued was based on a value of approximately $174,577,
+determined using the volume weighted average price per share during the preceding ten days during which the NYSE American was open. On
+August 3, 2026, the Company issued 76,234 shares of common stock to satisfy the accrued interest obligation. The shares were offered
+and sold pursuant to the exemption from registration under Section 4(a)(2) of the Securities Act of 1933, as amended. The shares were
+issued in a private transaction to a single investor who had represented to the Company, among other things, that it is a sophisticated
+investor and acquired the shares for investment purposes and for its own account.
+Not
+applicable.
+Not
+applicable.
+Insider
+Trading Arrangements
+During
+the quarter ended June 30, 2026, none of the Company’s directors or officers
+adopted
+,
+modified
+, or
+terminated
+a “Rule 10b5-1
+trading arrangement” or a “non-Rule 10b5-1 trading arrangement,” as those terms are defined in Item 408(a) of Regulation
+S-K.
+*
+Filed electronically herewith.
+†
+Certain portions of this exhibit have been omitted because they are not material, would be competitively harmful if publicly disclosed,
+and are of the type that the registrant treats as private or confidential.
+SIGNATURES
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
