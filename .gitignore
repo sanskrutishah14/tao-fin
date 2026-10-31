@@ -56,3 +56,6 @@ backend/data/cache/
 # Temporary files
 *.tmp
 *.temp
+
+.vite/
+frontend/.vite/
