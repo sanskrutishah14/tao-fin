@@ -9,7 +9,7 @@ import {
   Moon,
 } from 'lucide-react';
 
-export type NavigationTab = 'ask' | 'companies' | 'market' | 'about';
+export type NavigationTab = 'ask' | 'companies' | 'market' | 'evaluation' | 'about';
 
 interface NavbarProps {
   currentTab: NavigationTab;
@@ -28,6 +28,7 @@ export const Navbar: React.FC<NavbarProps> = ({
     { id: 'ask' as const, label: 'Ask', icon: Home },
     { id: 'companies' as const, label: 'Companies', icon: Building2 },
     { id: 'market' as const, label: 'Market', icon: TrendingUp },
+    { id: 'evaluation' as const, label: 'Evaluation', icon: CheckSquare },
     { id: 'about' as const, label: 'About', icon: Info },
   ];
 

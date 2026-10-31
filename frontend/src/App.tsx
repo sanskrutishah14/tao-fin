@@ -3,6 +3,7 @@ import { Navbar, NavigationTab } from './components/common/Navbar';
 import { AskPage } from './pages/AskPage';
 import { CompaniesPage } from './pages/CompaniesPage';
 import { MarketPage } from './pages/MarketPage';
+import { EvaluationPage } from './pages/EvaluationPage';
 import { AboutPage } from './pages/AboutPage';
 
 export const App: React.FC = () => {
@@ -52,6 +53,7 @@ export const App: React.FC = () => {
         {currentTab === 'ask' && <AskPage />}
         {currentTab === 'companies' && <CompaniesPage />}
         {currentTab === 'market' && <MarketPage />}
+        {currentTab === 'evaluation' && <EvaluationPage />}
         {currentTab === 'about' && <AboutPage />}
       </main>
     </div>

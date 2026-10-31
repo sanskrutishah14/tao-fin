@@ -1,5 +1,3 @@
-# backend/app/main.py
-
 from pathlib import Path
 
 from fastapi import FastAPI
@@ -86,7 +84,12 @@ def build_rag_index():
 
     init_db()
 
-    pipeline, indexed = build_tao_pipeline()
+    try:
+        pipeline, indexed = build_tao_pipeline()
+    except Exception as e:
+        print(f"[startup] Warning: RAG index load deferred ({e})")
+        pipeline, indexed = None, []
+
     app.state.tao_pipeline = pipeline
     app.state.indexed_tickers = indexed
 
